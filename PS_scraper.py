@@ -2,14 +2,7 @@ import requests
 import json
 import os
 from datetime import datetime
-
-
-
-
-import requests
-import json
-import os
-from datetime import datetime
+import time
 
 def fetch_gen9ou_replays(page=1, limit=50):
     """
@@ -69,5 +62,10 @@ def fetch_gen9ou_replays(page=1, limit=50):
         return []
     
 if __name__ == "__main__":
-    replays = fetch_gen9ou_replays()
-    print(replays)
+    while True:
+        replays = fetch_gen9ou_replays()
+        print(replays)
+        print('########')
+        # TODO: connect to DB and save replays
+        # Wait for 15 minutes
+        time.sleep(15 * 60)
