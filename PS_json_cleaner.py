@@ -3,13 +3,14 @@ import re
 import sys
 import requests
 
-def clean_showdown_replay(url, output_file=None):
+def clean_showdown_replay(url):
     """
     Download and clean a Pokemon Showdown replay JSON
 
     Args:
         url: URL of the replay JSON
-        output_file: Path to save the cleaned JSON (default: replay_id_clean.json)
+    Returns:
+        Cleaned replay data as a dictionary
     """
     # Download the JSON
     print(f"Downloading from: {url}")
@@ -17,11 +18,6 @@ def clean_showdown_replay(url, output_file=None):
         response = requests.get(url)
         response.raise_for_status()
         replay_data = response.json()
-
-        # Get replay ID for default output filename
-        replay_id = replay_data.get('id', 'replay')
-        if output_file is None:
-            output_file = f"{replay_id}_clean.json"
 
         # Extract basic info
         cleaned_data = {
@@ -37,12 +33,8 @@ def clean_showdown_replay(url, output_file=None):
             turn_data = format_as_turns(clean_log)
             cleaned_data.update(turn_data)
 
-        # Write the cleaned JSON to the output file
-        with open(output_file, 'w') as f:
-            json.dump(cleaned_data, f, indent=2)
-
-        print(f"Cleaned JSON saved to: {output_file}")
-        return output_file
+        print(f"Successfully cleaned replay {cleaned_data['id']}")
+        return cleaned_data
 
     except Exception as e:
         print(f"Error: {e}")

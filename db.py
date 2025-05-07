@@ -55,11 +55,8 @@ def createTable(cursor):
 
 import json
 
-def insertJSON(cursor, conn, json_file):
+def insertJSON(cursor, conn, data):
     try:
-        with open(json_file, 'r') as f:
-            data = json.load(f)
-        
         game_id = data["id"]
         json_text = json.dumps(data)
         
@@ -80,13 +77,9 @@ def insertJSON(cursor, conn, json_file):
         conn.commit()
         print(f"Successfully inserted row for {game_id}")
         return True
-    except FileNotFoundError:
-        print(f"File not found: {json_file}")
-        return False
     except Exception as e:
-        print(f"Error inserting data for {json_file}: {str(e)}")
+        print(f"Error inserting data for {data.get('id', 'unknown')}: {str(e)}")
         return False
-
 
 def printRows(cursor):
     query = "SELECT * FROM data"
@@ -97,7 +90,6 @@ def printRows(cursor):
     for row in rows:
         print(row)
 
-printRows(cursor)
 
 cursor.close()
 conn.close()

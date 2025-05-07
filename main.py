@@ -12,10 +12,6 @@ def main():
     PASSWORD = "PSMVP2025!"
     DATABASE = "pokemonshowdowndb"
     PORT = 3306
-
-    # Create output directories
-    clean_dir = os.path.join("data", "clean")
-    os.makedirs(clean_dir, exist_ok=True)
     
     # Get current timestamp for logging
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -57,21 +53,20 @@ def main():
         
         # Get replay ID from URL
         replay_id = replay_url.split('/')[-1].replace('.json', '')
-        output_file = os.path.join(clean_dir, f"{replay_id}_clean.json")
         
         print(f"[{timestamp}] Processing replay {i+1}/{len(replays)}: {replay_id}")
         
         try:
-            # Clean the replay data
-            result = clean_showdown_replay(replay_url, output_file)
+            # Clean the replay data - now returns data directly
+            cleaned_data = clean_showdown_replay(replay_url)
             
-            if result:
+            if cleaned_data:
                 successful += 1
                 print(f"[{timestamp}] ✓ Successfully processed {replay_id}")
                 
-                # Insert into database
+                # Insert into database directly with the cleaned data
                 try:
-                    insertJSON(cursor, conn, output_file)
+                    insertJSON(cursor, conn, cleaned_data)
                     db_successful += 1
                     print(f"[{timestamp}] ✓ Successfully uploaded {replay_id} to database")
                 except Exception as e:
