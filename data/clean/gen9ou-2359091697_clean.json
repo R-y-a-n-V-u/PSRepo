@@ -1,0 +1,42 @@
+{
+  "id": "gen9ou-2359091697",
+  "format": "[Gen 9] OU",
+  "players": [
+    "prunyy",
+    "April"
+  ],
+  "pre_battle": [
+    "|player|p1|prunyy|ghetsis|",
+    "|player|p2|April|#gimmicky|",
+    "|teamsize|p1|1",
+    "|teamsize|p2|1",
+    "|gen|9",
+    "|tier|[Gen 9] OU",
+    "|clearpoke",
+    "|teampreview",
+    "|",
+    "|start",
+    "|switch|p1a: Dragapult|Dragapult, F|100/100",
+    "|switch|p2a: Tinkaton|Tinkaton, F|100/100",
+    "|-item|p2a: Tinkaton|Air Balloon"
+  ],
+  "turns": {
+    "1": [
+      "|",
+      "|move|p1a: Dragapult|U-turn|p2a: Tinkaton",
+      "|-resisted|p2a: Tinkaton",
+      "|-damage|p2a: Tinkaton|96/100",
+      "|-enditem|p2a: Tinkaton|Air Balloon",
+      "|move|p2a: Tinkaton|Knock Off|p1a: Dragapult",
+      "|-supereffective|p1a: Dragapult",
+      "|-damage|p1a: Dragapult|69/100",
+      "|",
+      "|upkeep"
+    ],
+    "2": [
+      "|-message|April forfeited.",
+      "|",
+      "|win|prunyy"
+    ]
+  }
+}

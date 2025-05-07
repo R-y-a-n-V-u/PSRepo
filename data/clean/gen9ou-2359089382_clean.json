@@ -1,0 +1,77 @@
+{
+  "id": "gen9ou-2359089382",
+  "format": "[Gen 9] OU",
+  "players": [
+    "Salmonboyo",
+    "ReverseHavoc"
+  ],
+  "pre_battle": [
+    "|player|p1|Salmonboyo|will|1157",
+    "|player|p2|ReverseHavoc|cynthia-gen4|1177",
+    "|teamsize|p1|6",
+    "|teamsize|p2|6",
+    "|gen|9",
+    "|tier|[Gen 9] OU",
+    "|clearpoke",
+    "|teampreview",
+    "|",
+    "|start",
+    "|switch|p1a: Qwilfish|Qwilfish-Hisui, F|100/100",
+    "|switch|p2a: Great Tusk|Great Tusk|100/100",
+    "|-ability|p1a: Qwilfish|Intimidate|boost",
+    "|-unboost|p2a: Great Tusk|atk|1",
+    "|-enditem|p2a: Great Tusk|Booster Energy",
+    "|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]",
+    "|-start|p2a: Great Tusk|protosynthesisspe",
+    "|player|p1|",
+    "|player|p2|"
+  ],
+  "turns": {
+    "1": [
+      "|",
+      "|move|p2a: Great Tusk|Earthquake|p1a: Qwilfish",
+      "|-supereffective|p1a: Qwilfish",
+      "|-damage|p1a: Qwilfish|41/100",
+      "|move|p1a: Qwilfish|Gunk Shot|p2a: Great Tusk",
+      "|-resisted|p2a: Great Tusk",
+      "|-damage|p2a: Great Tusk|86/100",
+      "|",
+      "|upkeep"
+    ],
+    "2": [
+      "|",
+      "|switch|p1a: Flapple|Flapple, F|100/100",
+      "|move|p2a: Great Tusk|Earthquake|p1a: Flapple",
+      "|-resisted|p1a: Flapple",
+      "|-damage|p1a: Flapple|76/100",
+      "|",
+      "|upkeep"
+    ],
+    "3": [
+      "|",
+      "|move|p2a: Great Tusk|Ice Spinner|p1a: Flapple",
+      "|-supereffective|p1a: Flapple",
+      "|-crit|p1a: Flapple",
+      "|-damage|p1a: Flapple|0 fnt",
+      "|faint|p1a: Flapple",
+      "|",
+      "|upkeep",
+      "|",
+      "|switch|p1a: Gengar|Gengar, F|100/100"
+    ],
+    "4": [
+      "|",
+      "|move|p1a: Gengar|Shadow Ball|p2a: Great Tusk",
+      "|-damage|p2a: Great Tusk|23/100",
+      "|move|p2a: Great Tusk|Earthquake|p1a: Gengar",
+      "|-supereffective|p1a: Gengar",
+      "|-damage|p1a: Gengar|0 fnt",
+      "|faint|p1a: Gengar",
+      "|",
+      "|upkeep",
+      "|-message|Salmonboyo forfeited.",
+      "|",
+      "|win|ReverseHavoc"
+    ]
+  }
+}

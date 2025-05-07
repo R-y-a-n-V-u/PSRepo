@@ -1,0 +1,56 @@
+{
+  "id": "gen9ou-2359095563",
+  "format": "[Gen 9] OU",
+  "players": [
+    "jeieooe9w",
+    "cheesemane"
+  ],
+  "pre_battle": [
+    "|player|p1|jeieooe9w|cynthia|1437",
+    "|player|p2|cheesemane|ghetsis-gen5bw|1446",
+    "|teamsize|p1|6",
+    "|teamsize|p2|6",
+    "|gen|9",
+    "|tier|[Gen 9] OU",
+    "|clearpoke",
+    "|teampreview",
+    "|",
+    "|start",
+    "|switch|p1a: Dragonite|Dragonite, M|100/100",
+    "|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100",
+    "|player|p2|"
+  ],
+  "turns": {
+    "1": [
+      "|",
+      "|move|p2a: Ogerpon|U-turn|p1a: Dragonite",
+      "|-resisted|p1a: Dragonite",
+      "|-crit|p1a: Dragonite",
+      "|-damage|p1a: Dragonite|89/100",
+      "|",
+      "|switch|p2a: Tyranitar|Tyranitar, F|100/100|[from] U-turn",
+      "|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar",
+      "|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite",
+      "|-boost|p1a: Dragonite|atk|1",
+      "|-boost|p1a: Dragonite|spe|1",
+      "|",
+      "|-weather|Sandstorm|[upkeep]",
+      "|-damage|p1a: Dragonite|83/100|[from] Sandstorm",
+      "|upkeep"
+    ],
+    "2": [
+      "|",
+      "|move|p1a: Dragonite|Low Kick|p2a: Tyranitar",
+      "|-supereffective|p2a: Tyranitar",
+      "|-damage|p2a: Tyranitar|0 fnt",
+      "|faint|p2a: Tyranitar",
+      "|",
+      "|-weather|Sandstorm|[upkeep]",
+      "|-damage|p1a: Dragonite|76/100|[from] Sandstorm",
+      "|upkeep",
+      "|-message|cheesemane forfeited.",
+      "|",
+      "|win|jeieooe9w"
+    ]
+  }
+}

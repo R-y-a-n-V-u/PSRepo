@@ -1,0 +1,121 @@
+{
+  "id": "gen9ou-2359081821",
+  "format": "[Gen 9] OU",
+  "players": [
+    "the goat(literal)",
+    "XxRimxX"
+  ],
+  "pre_battle": [
+    "|player|p1|the goat(literal)|266|1159",
+    "|player|p2|XxRimxX|unknown|1117",
+    "|teamsize|p1|6",
+    "|teamsize|p2|6",
+    "|gen|9",
+    "|tier|[Gen 9] OU",
+    "|clearpoke",
+    "|teampreview",
+    "|",
+    "|start",
+    "|switch|p1a: Zamazenta|Zamazenta|100/100",
+    "|switch|p2a: Deoxys|Deoxys-Defense|100/100",
+    "|-ability|p1a: Zamazenta|Dauntless Shield|boost",
+    "|-boost|p1a: Zamazenta|def|1",
+    "|-ability|p2a: Deoxys|Pressure",
+    "|player|p1|"
+  ],
+  "turns": {
+    "1": [
+      "|",
+      "|move|p1a: Zamazenta|Crunch|p2a: Deoxys",
+      "|-supereffective|p2a: Deoxys",
+      "|-damage|p2a: Deoxys|63/100",
+      "|move|p2a: Deoxys|Stealth Rock|p1a: Zamazenta",
+      "|-sidestart|p1: the goat(literal)|move: Stealth Rock",
+      "|",
+      "|upkeep"
+    ],
+    "2": [
+      "|",
+      "|move|p1a: Zamazenta|Crunch|p2a: Deoxys",
+      "|-supereffective|p2a: Deoxys",
+      "|-damage|p2a: Deoxys|27/100",
+      "|move|p2a: Deoxys|Meteor Beam||[still]",
+      "|-prepare|p2a: Deoxys|Meteor Beam",
+      "|-boost|p2a: Deoxys|spa|1",
+      "|-enditem|p2a: Deoxys|Power Herb",
+      "|-anim|p2a: Deoxys|Meteor Beam|p1a: Zamazenta",
+      "|-resisted|p1a: Zamazenta",
+      "|-damage|p1a: Zamazenta|86/100",
+      "|",
+      "|-heal|p1a: Zamazenta|92/100|[from] item: Leftovers",
+      "|upkeep"
+    ],
+    "3": [
+      "|",
+      "|move|p1a: Zamazenta|Crunch|p2a: Deoxys",
+      "|-supereffective|p2a: Deoxys",
+      "|-damage|p2a: Deoxys|0 fnt",
+      "|faint|p2a: Deoxys",
+      "|",
+      "|-heal|p1a: Zamazenta|98/100|[from] item: Leftovers",
+      "|upkeep",
+      "|",
+      "|switch|p2a: Fodder|Indeedee, M|100/100",
+      "|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Fodder"
+    ],
+    "4": [
+      "|",
+      "|switch|p2a: Armarouge|Armarouge, F|100/100",
+      "|move|p1a: Zamazenta|Body Press|p2a: Armarouge",
+      "|-resisted|p2a: Armarouge",
+      "|-damage|p2a: Armarouge|76/100",
+      "|-ability|p2a: Armarouge|Weak Armor|boost",
+      "|-unboost|p2a: Armarouge|def|1",
+      "|-boost|p2a: Armarouge|spe|2",
+      "|",
+      "|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers",
+      "|upkeep"
+    ],
+    "5": [
+      "|",
+      "|-terastallize|p1a: Zamazenta|Water",
+      "|move|p2a: Armarouge|Expanding Force|p1a: Zamazenta",
+      "|-damage|p1a: Zamazenta|55/100",
+      "|move|p1a: Zamazenta|Crunch|p2a: Armarouge",
+      "|-supereffective|p2a: Armarouge",
+      "|-damage|p2a: Armarouge|13/100",
+      "|-ability|p2a: Armarouge|Weak Armor|boost",
+      "|-unboost|p2a: Armarouge|def|1",
+      "|-boost|p2a: Armarouge|spe|2",
+      "|-enditem|p2a: Armarouge|Weakness Policy",
+      "|-boost|p2a: Armarouge|atk|2|[from] item: Weakness Policy",
+      "|-boost|p2a: Armarouge|spa|2|[from] item: Weakness Policy",
+      "|",
+      "|-heal|p1a: Zamazenta|61/100|[from] item: Leftovers",
+      "|upkeep"
+    ],
+    "6": [
+      "|",
+      "|move|p2a: Armarouge|Energy Ball|p1a: Zamazenta",
+      "|-supereffective|p1a: Zamazenta",
+      "|-damage|p1a: Zamazenta|0 fnt",
+      "|faint|p1a: Zamazenta",
+      "|",
+      "|upkeep",
+      "|",
+      "|switch|p1a: Slowking|Slowking-Galar, F|100/100"
+    ],
+    "7": [
+      "|",
+      "|-terastallize|p2a: Armarouge|Psychic",
+      "|move|p2a: Armarouge|Stored Power|p1a: Slowking",
+      "|-damage|p1a: Slowking|0 fnt",
+      "|faint|p1a: Slowking",
+      "|",
+      "|upkeep",
+      "|-message|the goat(literal) forfeited.",
+      "|",
+      "|win|XxRimxX"
+    ]
+  }
+}

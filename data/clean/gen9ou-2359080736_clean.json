@@ -1,0 +1,139 @@
+{
+  "id": "gen9ou-2359080736",
+  "format": "[Gen 9] OU",
+  "players": [
+    "summerenaissance",
+    "Ode To No One"
+  ],
+  "pre_battle": [
+    "|player|p1|summerenaissance|iris-gen5bw2|1573",
+    "|player|p2|Ode To No One|morty|1638",
+    "|teamsize|p1|6",
+    "|teamsize|p2|6",
+    "|gen|9",
+    "|tier|[Gen 9] OU",
+    "|clearpoke",
+    "|teampreview",
+    "|",
+    "|start",
+    "|switch|p1a: Mienshao|Mienshao, M|100/100",
+    "|switch|p2a: Gliscor|Gliscor, M|100/100",
+    "|player|p1|"
+  ],
+  "turns": {
+    "1": [
+      "|",
+      "|move|p2a: Gliscor|Protect|p2a: Gliscor",
+      "|-singleturn|p2a: Gliscor|Protect",
+      "|move|p1a: Mienshao|Knock Off|p2a: Gliscor",
+      "|-activate|p2a: Gliscor|move: Protect",
+      "|",
+      "|-status|p2a: Gliscor|tox|[from] item: Toxic Orb",
+      "|upkeep"
+    ],
+    "2": [
+      "|",
+      "|switch|p2a: Rotom|Rotom-Wash|100/100",
+      "|move|p1a: Mienshao|Triple Axel|p2a: Rotom|[miss]",
+      "|-miss|p1a: Mienshao|p2a: Rotom",
+      "|",
+      "|upkeep"
+    ],
+    "3": [
+      "|",
+      "|move|p1a: Mienshao|U-turn|p2a: Rotom",
+      "|-damage|p2a: Rotom|69/100",
+      "|-damage|p1a: Mienshao|91/100|[from] item: Life Orb",
+      "|",
+      "|switch|p1a: Tinkaton|Tinkaton, F|100/100|[from] U-turn",
+      "|-item|p1a: Tinkaton|Air Balloon",
+      "|move|p2a: Rotom|Nasty Plot|p2a: Rotom",
+      "|-boost|p2a: Rotom|spa|2",
+      "|",
+      "|-heal|p2a: Rotom|75/100|[from] item: Leftovers",
+      "|upkeep"
+    ],
+    "4": [
+      "|",
+      "|move|p1a: Tinkaton|Encore|p2a: Rotom",
+      "|-start|p2a: Rotom|Encore",
+      "|move|p2a: Rotom|Nasty Plot|p2a: Rotom",
+      "|-boost|p2a: Rotom|spa|2",
+      "|",
+      "|-heal|p2a: Rotom|82/100|[from] item: Leftovers",
+      "|upkeep"
+    ],
+    "5": [
+      "|",
+      "|switch|p2a: Gliscor|Gliscor, M|100/100 tox",
+      "|move|p1a: Tinkaton|Stealth Rock|p2a: Gliscor",
+      "|-sidestart|p2: Ode To No One|move: Stealth Rock",
+      "|",
+      "|upkeep"
+    ],
+    "6": [
+      "|",
+      "|switch|p1a: Samurott|Samurott-Hisui, M|100/100",
+      "|move|p2a: Gliscor|Facade|p1a: Samurott",
+      "|-damage|p1a: Samurott|64/100",
+      "|",
+      "|upkeep"
+    ],
+    "7": [
+      "|",
+      "|switch|p1a: Mienshao|Mienshao, M|100/100",
+      "|move|p2a: Gliscor|Swords Dance|p2a: Gliscor",
+      "|-boost|p2a: Gliscor|atk|2",
+      "|",
+      "|upkeep"
+    ],
+    "8": [
+      "|",
+      "|-terastallize|p2a: Gliscor|Normal",
+      "|move|p1a: Mienshao|U-turn|p2a: Gliscor",
+      "|-damage|p2a: Gliscor|74/100 tox",
+      "|-damage|p1a: Mienshao|91/100|[from] item: Life Orb",
+      "|",
+      "|switch|p1a: Tinkaton|Tinkaton, F|100/100|[from] U-turn",
+      "|-item|p1a: Tinkaton|Air Balloon",
+      "|move|p2a: Gliscor|Facade|p1a: Tinkaton",
+      "|-resisted|p1a: Tinkaton",
+      "|-damage|p1a: Tinkaton|50/100",
+      "|-enditem|p1a: Tinkaton|Air Balloon",
+      "|-enditem|p2a: Gliscor|Toxic Orb|[silent]|[from] ability: Pickpocket|[of] p2a: Gliscor",
+      "|-item|p1a: Tinkaton|Toxic Orb|[from] ability: Pickpocket|[of] p2a: Gliscor",
+      "|",
+      "|-heal|p2a: Gliscor|86/100 tox|[from] ability: Poison Heal",
+      "|upkeep"
+    ],
+    "9": [
+      "|",
+      "|move|p1a: Tinkaton|Encore|p2a: Gliscor",
+      "|-start|p2a: Gliscor|Encore",
+      "|move|p2a: Gliscor|Facade|p1a: Tinkaton",
+      "|-resisted|p1a: Tinkaton",
+      "|-damage|p1a: Tinkaton|0 fnt",
+      "|faint|p1a: Tinkaton",
+      "|",
+      "|-heal|p2a: Gliscor|99/100 tox|[from] ability: Poison Heal",
+      "|upkeep",
+      "|",
+      "|switch|p1a: Mienshao|Mienshao, M|100/100"
+    ],
+    "10": [
+      "|",
+      "|move|p1a: Mienshao|Knock Off|p2a: Gliscor",
+      "|-damage|p2a: Gliscor|74/100 tox",
+      "|-damage|p1a: Mienshao|91/100|[from] item: Life Orb",
+      "|move|p2a: Gliscor|Facade|p1a: Mienshao",
+      "|-damage|p1a: Mienshao|0 fnt",
+      "|faint|p1a: Mienshao",
+      "|",
+      "|-heal|p2a: Gliscor|86/100 tox|[from] ability: Poison Heal",
+      "|upkeep",
+      "|-message|summerenaissance forfeited.",
+      "|",
+      "|win|Ode To No One"
+    ]
+  }
+}

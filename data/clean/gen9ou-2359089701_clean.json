@@ -1,0 +1,79 @@
+{
+  "id": "gen9ou-2359089701",
+  "format": "[Gen 9] OU",
+  "players": [
+    "SupItsLikemagic",
+    "EhrenApfel6.9"
+  ],
+  "pre_battle": [
+    "|player|p1|SupItsLikemagic|clown|1505",
+    "|player|p2|EhrenApfel6.9|ghetsis|1458",
+    "|teamsize|p1|6",
+    "|teamsize|p2|6",
+    "|gen|9",
+    "|tier|[Gen 9] OU",
+    "|clearpoke",
+    "|teampreview",
+    "|",
+    "|start",
+    "|switch|p1a: Blaziken|Blaziken, M, shiny|100/100",
+    "|switch|p2a: Darkrai|Darkrai|100/100",
+    "|player|p2|"
+  ],
+  "turns": {
+    "1": [
+      "|",
+      "|switch|p2a: Ting-Lu|Ting-Lu|100/100",
+      "|-ability|p2a: Ting-Lu|Vessel of Ruin",
+      "|move|p1a: Blaziken|Swords Dance|p1a: Blaziken",
+      "|-boost|p1a: Blaziken|atk|2",
+      "|",
+      "|-ability|p1a: Blaziken|Speed Boost|boost",
+      "|-boost|p1a: Blaziken|spe|1",
+      "|upkeep"
+    ],
+    "2": [
+      "|",
+      "|move|p1a: Blaziken|Close Combat|p2a: Ting-Lu",
+      "|-supereffective|p2a: Ting-Lu",
+      "|-damage|p2a: Ting-Lu|0 fnt",
+      "|-unboost|p1a: Blaziken|def|1",
+      "|-unboost|p1a: Blaziken|spd|1",
+      "|faint|p2a: Ting-Lu",
+      "|",
+      "|-ability|p1a: Blaziken|Speed Boost|boost",
+      "|-boost|p1a: Blaziken|spe|1",
+      "|upkeep",
+      "|",
+      "|switch|p2a: Dragonite|Dragonite, M|100/100"
+    ],
+    "3": [
+      "|",
+      "|-terastallize|p2a: Dragonite|Normal",
+      "|move|p2a: Dragonite|Extreme Speed|p1a: Blaziken",
+      "|-enditem|p1a: Blaziken|Focus Sash",
+      "|-damage|p1a: Blaziken|1/100",
+      "|move|p1a: Blaziken|Knock Off|p2a: Dragonite",
+      "|-damage|p2a: Dragonite|70/100",
+      "|-enditem|p2a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Blaziken",
+      "|",
+      "|-ability|p1a: Blaziken|Speed Boost|boost",
+      "|-boost|p1a: Blaziken|spe|1",
+      "|upkeep"
+    ],
+    "4": [
+      "|",
+      "|move|p1a: Blaziken|Upper Hand|p2a: Dragonite",
+      "|-supereffective|p2a: Dragonite",
+      "|-damage|p2a: Dragonite|0 fnt",
+      "|faint|p2a: Dragonite",
+      "|",
+      "|-ability|p1a: Blaziken|Speed Boost|boost",
+      "|-boost|p1a: Blaziken|spe|1",
+      "|upkeep",
+      "|-message|EhrenApfel6.9 forfeited.",
+      "|",
+      "|win|SupItsLikemagic"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "gen9ou-2359080045",
+  "format": "[Gen 9] OU",
+  "players": [
+    "empoleon9000",
+    "andraix"
+  ],
+  "pre_battle": [
+    "|player|p1|empoleon9000|169|",
+    "|player|p2|andraix|waiter|",
+    "|teamsize|p1|3",
+    "|teamsize|p2|3",
+    "|gen|9",
+    "|tier|[Gen 9] OU",
+    "|clearpoke",
+    "|teampreview",
+    "|",
+    "|start",
+    "|switch|p1a: 619|Hawlucha, F|100/100",
+    "|switch|p2a: The Reaper|Corviknight, F|100/100"
+  ],
+  "turns": {
+    "1": [
+      "|",
+      "|move|p1a: 619|Swords Dance|p1a: 619",
+      "|-boost|p1a: 619|atk|2",
+      "|move|p2a: The Reaper|Bulk Up|p2a: The Reaper",
+      "|-boost|p2a: The Reaper|atk|1",
+      "|-boost|p2a: The Reaper|def|1",
+      "|",
+      "|upkeep"
+    ],
+    "2": [
+      "|",
+      "|move|p1a: 619|Swords Dance|p1a: 619",
+      "|-boost|p1a: 619|atk|2",
+      "|move|p2a: The Reaper|Bulk Up|p2a: The Reaper",
+      "|-boost|p2a: The Reaper|atk|1",
+      "|-boost|p2a: The Reaper|def|1",
+      "|",
+      "|upkeep"
+    ],
+    "3": [
+      "|",
+      "|move|p1a: 619|Thunder Punch|p2a: The Reaper",
+      "|-supereffective|p2a: The Reaper",
+      "|-crit|p2a: The Reaper",
+      "|-damage|p2a: The Reaper|0 fnt",
+      "|faint|p2a: The Reaper",
+      "|",
+      "|upkeep",
+      "|",
+      "|switch|p2a: LICA student|Grafaiai, M|100/100"
+    ],
+    "4": [
+      "|",
+      "|move|p1a: 619|Acrobatics|p2a: LICA student",
+      "|-damage|p2a: LICA student|0 fnt",
+      "|faint|p2a: LICA student",
+      "|",
+      "|upkeep",
+      "|",
+      "|switch|p2a: My Naym Snek|Dunsparce, M|100/100"
+    ],
+    "5": [
+      "|",
+      "|move|p1a: 619|Flying Press|p2a: My Naym Snek",
+      "|-supereffective|p2a: My Naym Snek",
+      "|-damage|p2a: My Naym Snek|0 fnt",
+      "|faint|p2a: My Naym Snek",
+      "|",
+      "|win|empoleon9000"
+    ]
+  }
+}

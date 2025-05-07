@@ -1,0 +1,126 @@
+{
+  "id": "gen9ou-2359080206",
+  "format": "[Gen 9] OU",
+  "players": [
+    "Gamblings",
+    "bigdot"
+  ],
+  "pre_battle": [
+    "|player|p1|Gamblings|skyla|",
+    "|player|p2|bigdot|emmet|",
+    "|teamsize|p1|3",
+    "|teamsize|p2|3",
+    "|gen|9",
+    "|tier|[Gen 9] OU",
+    "|clearpoke",
+    "|teampreview",
+    "|",
+    "|start",
+    "|switch|p1a: Axe Wound Smasher|Haxorus, F|100/100",
+    "|switch|p2a: RoboDeer|Iron Leaves|100/100",
+    "|-ability|p1a: Axe Wound Smasher|Mold Breaker"
+  ],
+  "turns": {
+    "1": [
+      "|",
+      "|move|p2a: RoboDeer|Night Daze|p1a: Axe Wound Smasher",
+      "|-damage|p1a: Axe Wound Smasher|0 fnt",
+      "|faint|p1a: Axe Wound Smasher",
+      "|",
+      "|upkeep",
+      "|",
+      "|switch|p1a: Rock Eyebrow Raise|Tatsugiri, F|100/100"
+    ],
+    "2": [
+      "|",
+      "|move|p2a: RoboDeer|Night Daze|p1a: Rock Eyebrow Raise",
+      "|-damage|p1a: Rock Eyebrow Raise|25/100",
+      "|-enditem|p1a: Rock Eyebrow Raise|Petaya Berry|[eat]",
+      "|-boost|p1a: Rock Eyebrow Raise|spa|1|[from] item: Petaya Berry",
+      "|move|p1a: Rock Eyebrow Raise|Rapid Spin|p2a: RoboDeer",
+      "|-crit|p2a: RoboDeer",
+      "|-damage|p2a: RoboDeer|82/100",
+      "|-boost|p1a: Rock Eyebrow Raise|spe|1",
+      "|replace|p2a: Zorry not Zorry|Zoroark, M",
+      "|-end|p2a: Zorry not Zorry|Illusion",
+      "|",
+      "|upkeep"
+    ],
+    "3": [
+      "|",
+      "|move|p1a: Rock Eyebrow Raise|Hydro Pump|p2a: Zorry not Zorry",
+      "|-damage|p2a: Zorry not Zorry|0 fnt",
+      "|faint|p2a: Zorry not Zorry",
+      "|",
+      "|upkeep",
+      "|",
+      "|switch|p2a: RoboDeer|Iron Leaves|100/100"
+    ],
+    "4": [
+      "|",
+      "|-end|p2a: RoboDeer|Quark Drive|[silent]",
+      "|switch|p2a: man.|Ting-Lu|100/100",
+      "|-ability|p2a: man.|Vessel of Ruin",
+      "|move|p1a: Rock Eyebrow Raise|Draco Meteor|p2a: man.",
+      "|-damage|p2a: man.|42/100",
+      "|-unboost|p1a: Rock Eyebrow Raise|spa|2",
+      "|",
+      "|upkeep"
+    ],
+    "5": [
+      "|",
+      "|switch|p2a: RoboDeer|Iron Leaves|100/100",
+      "|move|p1a: Rock Eyebrow Raise|Hydro Pump|p2a: RoboDeer",
+      "|-resisted|p2a: RoboDeer",
+      "|-damage|p2a: RoboDeer|83/100",
+      "|",
+      "|upkeep"
+    ],
+    "6": [
+      "|",
+      "|move|p1a: Rock Eyebrow Raise|Endure|p1a: Rock Eyebrow Raise",
+      "|-singleturn|p1a: Rock Eyebrow Raise|move: Endure",
+      "|move|p2a: RoboDeer|Psyblade|p1a: Rock Eyebrow Raise",
+      "|-activate|p1a: Rock Eyebrow Raise|move: Endure",
+      "|-damage|p1a: Rock Eyebrow Raise|1/100",
+      "|",
+      "|upkeep"
+    ],
+    "7": [
+      "|",
+      "|move|p1a: Rock Eyebrow Raise|Draco Meteor|p2a: RoboDeer",
+      "|-crit|p2a: RoboDeer",
+      "|-damage|p2a: RoboDeer|0 fnt",
+      "|-unboost|p1a: Rock Eyebrow Raise|spa|2",
+      "|faint|p2a: RoboDeer",
+      "|-end|p2a: RoboDeer|Quark Drive|[silent]",
+      "|",
+      "|upkeep",
+      "|",
+      "|switch|p2a: man.|Ting-Lu|42/100",
+      "|-ability|p2a: man.|Vessel of Ruin"
+    ],
+    "8": [
+      "|",
+      "|move|p1a: Rock Eyebrow Raise|Hydro Pump|p2a: man.",
+      "|-supereffective|p2a: man.",
+      "|-damage|p2a: man.|15/100",
+      "|move|p2a: man.|Stomping Tantrum|p1a: Rock Eyebrow Raise",
+      "|-damage|p1a: Rock Eyebrow Raise|0 fnt",
+      "|faint|p1a: Rock Eyebrow Raise",
+      "|",
+      "|upkeep",
+      "|",
+      "|switch|p1a: cheese string|Gholdengo|100/100"
+    ],
+    "9": [
+      "|",
+      "|move|p1a: cheese string|Focus Blast|p2a: man.",
+      "|-supereffective|p2a: man.",
+      "|-damage|p2a: man.|0 fnt",
+      "|faint|p2a: man.",
+      "|",
+      "|win|Gamblings"
+    ]
+  }
+}

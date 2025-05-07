@@ -52,25 +52,41 @@ def createTable(cursor):
     """)
     print("Table created successfully or table already created")
 
-createTable(cursor)
 
 import json
 
 def insertJSON(cursor, conn, json_file):
-    f = open(json_file, 'r')
-    data = json.load(f)
-    game_id = data["id"]
-    json_text = json.dumps(data)
-    elo = int(data["pre_battle"][2][-4:]) + int(data["pre_battle"][3][-4:])
-    sql = "INSERT IGNORE INTO data (game_id, json, elo) VALUES (%s, %s, %s)"
-    val = (game_id, json_text, elo)
-    cursor.execute(sql, val)
-    conn.commit()
-    f.close()
-    print("Successfully inserted row")
+    try:
+        with open(json_file, 'r') as f:
+            data = json.load(f)
+        
+        game_id = data["id"]
+        json_text = json.dumps(data)
+        
+        # Safely extract ELO values
+        try:
+            # New format handling
+            p1_elo = data["pre_battle"][2].split('|')[-1]  # Gets the last part after |
+            p2_elo = data["pre_battle"][3].split('|')[-1]  # Gets the last part after |
+            elo = int(p1_elo) + int(p2_elo)
+        except (IndexError, ValueError):
+            # Fallback if ELO data isn't available
+            elo = 0
+        
+        sql = "INSERT IGNORE INTO data (game_id, json, elo) VALUES (%s, %s, %s)"
+        val = (game_id, json_text, elo)
+        
+        cursor.execute(sql, val)
+        conn.commit()
+        print(f"Successfully inserted row for {game_id}")
+        return True
+    except FileNotFoundError:
+        print(f"File not found: {json_file}")
+        return False
+    except Exception as e:
+        print(f"Error inserting data for {json_file}: {str(e)}")
+        return False
 
-
-insertJSON(cursor, conn, "gen9ou-2172099392_clean.json")
 
 def printRows(cursor):
     query = "SELECT * FROM data"
@@ -85,3 +101,4 @@ printRows(cursor)
 
 cursor.close()
 conn.close()
+

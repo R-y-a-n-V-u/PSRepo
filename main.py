@@ -1,23 +1,43 @@
 import os
-import json
 import time
 from datetime import datetime
 from PS_scraper import fetch_gen9ou_replays
 from PS_json_cleaner import clean_showdown_replay
+from db import connectToDB, createDatabase, createTable, insertJSON, printRows
 
 def main():
-    # Create output directories if they don't exist
+    # Database configuration (must match db.py)
+    HOST = "pokemonshowdowndb.cbiwcoou81sx.us-east-2.rds.amazonaws.com"
+    USER = "admin"
+    PASSWORD = "PSMVP2025!"
+    DATABASE = "pokemonshowdowndb"
+    PORT = 3306
+
+    # Create output directories
     clean_dir = os.path.join("data", "clean")
     os.makedirs(clean_dir, exist_ok=True)
     
     # Get current timestamp for logging
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
+    # Connect to database
+    try:
+        print(f"[{timestamp}] Connecting to database...")
+        cursor, conn = connectToDB(HOST, USER, PASSWORD, DATABASE, PORT)
+        createDatabase(cursor, DATABASE)
+        createTable(cursor)
+        print(f"[{timestamp}] Successfully connected to database")
+    except Exception as e:
+        print(f"[{timestamp}] Failed to connect to database: {e}")
+        return
+    
     # Fetch replays
     replays = fetch_gen9ou_replays()
     
     if not replays:
         print(f"[{timestamp}] No replays found. Exiting.")
+        cursor.close()
+        conn.close()
         return
     
     print(f"[{timestamp}] Found {len(replays)} replays. Processing...")
@@ -25,6 +45,8 @@ def main():
     # Process each replay
     successful = 0
     failed = 0
+    db_successful = 0
+    db_failed = 0
     
     for i, replay in enumerate(replays):
         replay_url = replay.get('replay_url')
@@ -35,16 +57,26 @@ def main():
         
         # Get replay ID from URL
         replay_id = replay_url.split('/')[-1].replace('.json', '')
+        output_file = os.path.join(clean_dir, f"{replay_id}_clean.json")
         
         print(f"[{timestamp}] Processing replay {i+1}/{len(replays)}: {replay_id}")
         
         try:
-            output_file = os.path.join(clean_dir, f"{replay_id}_clean.json")
+            # Clean the replay data
             result = clean_showdown_replay(replay_url, output_file)
             
             if result:
                 successful += 1
                 print(f"[{timestamp}] ✓ Successfully processed {replay_id}")
+                
+                # Insert into database
+                try:
+                    insertJSON(cursor, conn, output_file)
+                    db_successful += 1
+                    print(f"[{timestamp}] ✓ Successfully uploaded {replay_id} to database")
+                except Exception as e:
+                    db_failed += 1
+                    print(f"[{timestamp}] ✗ Failed to upload {replay_id} to database: {e}")
             else:
                 failed += 1
                 print(f"[{timestamp}] ✗ Failed to process {replay_id}")
@@ -56,10 +88,21 @@ def main():
             failed += 1
             print(f"[{timestamp}] ✗ Error processing {replay_id}: {str(e)}")
     
+    # Print database contents (optional)
+    print("\nCurrent database contents:")
+    printRows(cursor)
+    
+    # Close database connection
+    cursor.close()
+    conn.close()
+    
     # Print summary
     print(f"\n[{timestamp}] Processing complete")
     print(f"Total replays: {len(replays)}")
     print(f"Successfully processed: {successful}")
-    print(f"Failed: {failed}")
+    print(f"Failed processing: {failed}")
+    print(f"Successfully uploaded to DB: {db_successful}")
+    print(f"Failed DB uploads: {db_failed}")
 
-"""if __name__ == "__main__":"""
+if __name__ == "__main__":
+    main()
