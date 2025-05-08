@@ -63,9 +63,12 @@ def insertJSON(cursor, conn, data):
         # Safely extract ELO values
         try:
             # New format handling
-            p1_elo = data["pre_battle"][2].split('|')[-1]  # Gets the last part after |
-            p2_elo = data["pre_battle"][3].split('|')[-1]  # Gets the last part after |
-            elo = int(p1_elo) + int(p2_elo)
+            p1_elo = data["pre_battle"][0].split('|')[-1]  # Gets the last part after |
+            p2_elo = data["pre_battle"][1].split('|')[-1]  # Gets the last part after |
+            
+            elo = (int(p1_elo) + int(p2_elo)) / 2
+            print(f"ELO  = ${elo}, elo 1 = ${p1_elo} elo 2 = ${p2_elo}")
+            print(f"data[pre_battle][2] = ${data['pre_battle'][2].split('|')} ")
         except (IndexError, ValueError):
             # Fallback if ELO data isn't available
             elo = 0

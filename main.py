@@ -100,4 +100,10 @@ def main():
     print(f"Failed DB uploads: {db_failed}")
 
 if __name__ == "__main__":
-    main()
+    while True:
+        main()
+        print('########')
+        # TODO: connect to DB and save replays
+        # Wait for 15 minutes
+        time.sleep(15 * 60)
+    
