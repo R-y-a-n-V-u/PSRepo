@@ -83,6 +83,7 @@ def clean_battle_log(log):
         r'^\|-clearallboost\|',  # Clear all stat changes
         r'^\|-mega\|',           # Mega evolutions
         r'^\|-primal\|',         # Primal reversions
+        r'^\|poke\|',            # Pokemon in team
         r'^\|-terastallize\|'    # Terastallizing
     ]
 
@@ -104,12 +105,12 @@ def clean_battle_log(log):
         r'^\|uhtml\|',           # User HTML
         r'^\|uhtmlchange\|',     # User HTML changes
         r'^\|clearpoke\|',       # Clear Pokemon
-        r'^\|poke\|',            # Pokemon in team
         r'^\|request\|',         # Request data
         r'^\|error\|',           # Error messages
         r'^\|popup\|',           # Popup messages
         r'^\|queryresponse\|',   # Query responses
         r'^\|spectator\|',       # Spectator count
+        r'^\|clearpoke\|',       # Clear Pokemon
         r'^\|choice\|'           # Choice information
     ]
 
