@@ -1,0 +1,6798 @@
+{
+  "player_name": "Reymedy",
+  "player_id": "p1",
+  "opponent_name": "Leftiez~",
+  "opponent_id": "p2",
+  "format": "[Gen 5] OU",
+  "replay_id": "smogtours-gen5ou-59402",
+  "pre_battle": [
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Reymedy"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Leftiez~"
+      }
+    },
+    {
+      "type": "player_info",
+      "perspective": "self",
+      "data": {
+        "name": "Reymedy",
+        "id": "p1"
+      }
+    },
+    {
+      "type": "player_info",
+      "perspective": "opponent",
+      "data": {
+        "name": "Leftiez~",
+        "id": "p2"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|gen|5"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|tier|[Gen 5] OU"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|clearpoke"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Politoed, M"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Jirachi"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Breloom, F"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Garchomp, M"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Zapdos"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Tentacruel, M"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Stoutland, F"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Hippowdon, F"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Rotom-Wash"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Ferrothorn, F"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Latios, M"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Metagross"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|teampreview"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|McMeghan"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|iconic"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|MegaStarUniverse"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|zdrup"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|H-C"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Zenadark"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Twin Citiez"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Lusso."
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Lord Mur"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Vinc2612"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|fant"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Gei"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Espaa"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Yogiras"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|littlelucario"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|TewMew"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|L|Lord Mur"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|boudouche"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|Jimmy Turtwig"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|SoulWind"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|J|BahaWin"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|start"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|switch|p1a: Gengen|Breloom, F|307/307"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|switch|p2a: Rotom-Wash|Rotom-Wash|271/271"
+      }
+    }
+  ],
+  "turns": {
+    "1": {
+      "turn_number": 1,
+      "my_actions": [
+        {
+          "type": "supereffective",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Gengen",
+            "target_pokemon": "Gengen",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Gengen",
+            "target_pokemon": "Gengen",
+            "effect_details": [
+              "69/307"
+            ],
+            "new_hp": "69/307"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Gengen",
+            "move": "Spore",
+            "target": "p2a: Rotom-Wash",
+            "user_pokemon": "Gengen",
+            "target_pokemon": "Rotom-Wash"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Gengen",
+            "target_pokemon": "Gengen",
+            "effect_details": [
+              "tox",
+              "[from] item: Toxic Orb"
+            ],
+            "status_condition": "tox"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Rotom-Wash",
+            "move": "Hidden Power",
+            "target": "p1a: Gengen",
+            "user_pokemon": "Rotom-Wash",
+            "target_pokemon": "Gengen"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "slp"
+            ],
+            "status_condition": "slp"
+          }
+        },
+        {
+          "type": "enditem",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "Chesto Berry",
+              "[eat]"
+            ]
+          }
+        },
+        {
+          "type": "curestatus",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "slp"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|WcJay"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|WcJay"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Rotom-Wash",
+            "move": "Hidden Power",
+            "target": "p1a: Gengen",
+            "user_pokemon": "Rotom-Wash",
+            "target_pokemon": "Gengen"
+          }
+        },
+        {
+          "type": "supereffective",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Gengen",
+            "target_pokemon": "Gengen",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Gengen",
+            "target_pokemon": "Gengen",
+            "effect_details": [
+              "69/307"
+            ],
+            "new_hp": "69/307"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Gengen",
+            "move": "Spore",
+            "target": "p2a: Rotom-Wash",
+            "user_pokemon": "Gengen",
+            "target_pokemon": "Rotom-Wash"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "slp"
+            ],
+            "status_condition": "slp"
+          }
+        },
+        {
+          "type": "enditem",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "Chesto Berry",
+              "[eat]"
+            ]
+          }
+        },
+        {
+          "type": "curestatus",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "slp"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Gengen",
+            "target_pokemon": "Gengen",
+            "effect_details": [
+              "tox",
+              "[from] item: Toxic Orb"
+            ],
+            "status_condition": "tox"
+          }
+        }
+      ]
+    },
+    "2": {
+      "turn_number": 2,
+      "my_actions": [
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Nanami",
+            "pokemon_info": "Jirachi",
+            "hp_info": "403/403",
+            "pokemon_name": "Jirachi"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "253/403"
+            ],
+            "new_hp": "253/403"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "278/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "278/403"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Rotom-Wash",
+            "move": "Hydro Pump",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Rotom-Wash",
+            "target_pokemon": "Nanami"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|LJDarkrai"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|MegaStarUniverse"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Korby"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Tom0410"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|davidTheMaster"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Vinc608"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Bowlii"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|LJDarkrai"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|MegaStarUniverse"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Korby"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Tom0410"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|davidTheMaster"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Vinc608"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Bowlii"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Nanami",
+            "pokemon_info": "Jirachi",
+            "hp_info": "403/403",
+            "pokemon_name": "Jirachi"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Rotom-Wash",
+            "move": "Hydro Pump",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Rotom-Wash",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "253/403"
+            ],
+            "new_hp": "253/403"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "278/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "278/403"
+          }
+        }
+      ]
+    },
+    "3": {
+      "turn_number": 3,
+      "my_actions": [
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "193/403"
+            ],
+            "new_hp": "193/403"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Wish",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "218/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "218/403"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Rotom-Wash",
+            "move": "Volt Switch",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Rotom-Wash",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Hippowdon",
+            "pokemon_info": "Hippowdon, F",
+            "hp_info": "420/420",
+            "pokemon_name": "Hippowdon"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[from] ability: Sand Stream",
+              "[of] p2a: Hippowdon"
+            ]
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|pholovvers"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|pholovvers"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Rotom-Wash",
+            "move": "Volt Switch",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Rotom-Wash",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "193/403"
+            ],
+            "new_hp": "193/403"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Hippowdon",
+            "pokemon_info": "Hippowdon, F",
+            "hp_info": "420/420",
+            "pokemon_name": "Hippowdon"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[from] ability: Sand Stream",
+              "[of] p2a: Hippowdon"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Wish",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "218/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "218/403"
+          }
+        }
+      ]
+    },
+    "4": {
+      "turn_number": 4,
+      "my_actions": [
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Rikimaru",
+            "pokemon_info": "Garchomp, M",
+            "hp_info": "420/420",
+            "pokemon_name": "Garchomp"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rikimaru",
+            "target_pokemon": "Rikimaru",
+            "effect_details": [
+              "294/420"
+            ],
+            "new_hp": "294/420"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rikimaru",
+            "target_pokemon": "Rikimaru",
+            "effect_details": [
+              "420/420",
+              "[from] move: Wish",
+              "[wisher] Nanami"
+            ],
+            "new_hp": "420/420"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Hippowdon",
+            "move": "Earthquake",
+            "target": "p1a: Rikimaru",
+            "user_pokemon": "Hippowdon",
+            "target_pokemon": "Rikimaru"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|xastify"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|pholovvers"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Marshall.Law"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Stratos"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|xastify"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|pholovvers"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Marshall.Law"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Stratos"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Rikimaru",
+            "pokemon_info": "Garchomp, M",
+            "hp_info": "420/420",
+            "pokemon_name": "Garchomp"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Hippowdon",
+            "move": "Earthquake",
+            "target": "p1a: Rikimaru",
+            "user_pokemon": "Hippowdon",
+            "target_pokemon": "Rikimaru"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rikimaru",
+            "target_pokemon": "Rikimaru",
+            "effect_details": [
+              "294/420"
+            ],
+            "new_hp": "294/420"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rikimaru",
+            "target_pokemon": "Rikimaru",
+            "effect_details": [
+              "420/420",
+              "[from] move: Wish",
+              "[wisher] Nanami"
+            ],
+            "new_hp": "420/420"
+          }
+        }
+      ]
+    },
+    "5": {
+      "turn_number": 5,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Rikimaru",
+            "move": "Stealth Rock",
+            "target": "p2a: Hippowdon",
+            "user_pokemon": "Rikimaru",
+            "target_pokemon": "Hippowdon"
+          }
+        },
+        {
+          "type": "supereffective",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rikimaru",
+            "target_pokemon": "Rikimaru",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rikimaru",
+            "target_pokemon": "Rikimaru",
+            "effect_details": [
+              "236/420"
+            ],
+            "new_hp": "236/420"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "sidestart",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2: Leftiez~",
+            "target_pokemon": "Leftiez~",
+            "effect_details": [
+              "move: Stealth Rock"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Hippowdon",
+            "move": "Ice Fang",
+            "target": "p1a: Rikimaru",
+            "user_pokemon": "Hippowdon",
+            "target_pokemon": "Rikimaru"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "368/420",
+              "[from] ability: Rough Skin",
+              "[of] p1a: Rikimaru"
+            ],
+            "new_hp": "368/420"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "298/420",
+              "[from] item: Rocky Helmet",
+              "[of] p1a: Rikimaru"
+            ],
+            "new_hp": "298/420"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "324/420",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "324/420"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Rikimaru",
+            "move": "Stealth Rock",
+            "target": "p2a: Hippowdon",
+            "user_pokemon": "Rikimaru",
+            "target_pokemon": "Hippowdon"
+          }
+        },
+        {
+          "type": "sidestart",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2: Leftiez~",
+            "target_pokemon": "Leftiez~",
+            "effect_details": [
+              "move: Stealth Rock"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Hippowdon",
+            "move": "Ice Fang",
+            "target": "p1a: Rikimaru",
+            "user_pokemon": "Hippowdon",
+            "target_pokemon": "Rikimaru"
+          }
+        },
+        {
+          "type": "supereffective",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rikimaru",
+            "target_pokemon": "Rikimaru",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rikimaru",
+            "target_pokemon": "Rikimaru",
+            "effect_details": [
+              "236/420"
+            ],
+            "new_hp": "236/420"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "368/420",
+              "[from] ability: Rough Skin",
+              "[of] p1a: Rikimaru"
+            ],
+            "new_hp": "368/420"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "298/420",
+              "[from] item: Rocky Helmet",
+              "[of] p1a: Rikimaru"
+            ],
+            "new_hp": "298/420"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "324/420",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "324/420"
+          }
+        }
+      ]
+    },
+    "6": {
+      "turn_number": 6,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Rikimaru",
+            "move": "Toxic",
+            "target": "p2a: Hippowdon",
+            "user_pokemon": "Rikimaru",
+            "target_pokemon": "Hippowdon"
+          }
+        },
+        {
+          "type": "sidestart",
+          "perspective": "self",
+          "data": {
+            "target": "p1: Reymedy",
+            "target_pokemon": "Reymedy",
+            "effect_details": [
+              "move: Stealth Rock"
+            ]
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "tox"
+            ],
+            "status_condition": "tox"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Hippowdon",
+            "move": "Stealth Rock",
+            "target": "p1a: Rikimaru",
+            "user_pokemon": "Hippowdon",
+            "target_pokemon": "Rikimaru"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "350/420 tox",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "350/420 tox"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "324/420 tox",
+              "[from] psn"
+            ],
+            "new_hp": "324/420 tox"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Rikimaru",
+            "move": "Toxic",
+            "target": "p2a: Hippowdon",
+            "user_pokemon": "Rikimaru",
+            "target_pokemon": "Hippowdon"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "tox"
+            ],
+            "status_condition": "tox"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Hippowdon",
+            "move": "Stealth Rock",
+            "target": "p1a: Rikimaru",
+            "user_pokemon": "Hippowdon",
+            "target_pokemon": "Rikimaru"
+          }
+        },
+        {
+          "type": "sidestart",
+          "perspective": "self",
+          "data": {
+            "target": "p1: Reymedy",
+            "target_pokemon": "Reymedy",
+            "effect_details": [
+              "move: Stealth Rock"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "350/420 tox",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "350/420 tox"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "324/420 tox",
+              "[from] psn"
+            ],
+            "new_hp": "324/420 tox"
+          }
+        }
+      ]
+    },
+    "7": {
+      "turn_number": 7,
+      "my_actions": [
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Bonaparte",
+            "pokemon_info": "Politoed, M",
+            "hp_info": "323/323",
+            "pokemon_name": "Politoed"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Bonaparte",
+            "target_pokemon": "Bonaparte",
+            "effect_details": [
+              "283/323",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "283/323"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Bonaparte",
+            "target_pokemon": "Bonaparte",
+            "effect_details": [
+              "108/323"
+            ],
+            "new_hp": "108/323"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[from] ability: Drizzle",
+              "[of] p1a: Bonaparte"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Hippowdon",
+            "move": "Earthquake",
+            "target": "p1a: Bonaparte",
+            "user_pokemon": "Hippowdon",
+            "target_pokemon": "Bonaparte"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "350/420 tox",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "350/420 tox"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "298/420 tox",
+              "[from] psn"
+            ],
+            "new_hp": "298/420 tox"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Zenadark"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Fairy Peak"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Zenadark"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Zenadark"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Fairy Peak"
+          }
+        },
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Zenadark"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Bonaparte",
+            "pokemon_info": "Politoed, M",
+            "hp_info": "323/323",
+            "pokemon_name": "Politoed"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Bonaparte",
+            "target_pokemon": "Bonaparte",
+            "effect_details": [
+              "283/323",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "283/323"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[from] ability: Drizzle",
+              "[of] p1a: Bonaparte"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Hippowdon",
+            "move": "Earthquake",
+            "target": "p1a: Bonaparte",
+            "user_pokemon": "Hippowdon",
+            "target_pokemon": "Bonaparte"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Bonaparte",
+            "target_pokemon": "Bonaparte",
+            "effect_details": [
+              "108/323"
+            ],
+            "new_hp": "108/323"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "350/420 tox",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "350/420 tox"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "298/420 tox",
+              "[from] psn"
+            ],
+            "new_hp": "298/420 tox"
+          }
+        }
+      ]
+    },
+    "8": {
+      "turn_number": 8,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Bonaparte",
+            "move": "Scald",
+            "target": "p2a: Rotom-Wash",
+            "user_pokemon": "Bonaparte",
+            "target_pokemon": "Rotom-Wash"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Rotom-Wash",
+            "pokemon_info": "Rotom-Wash",
+            "hp_info": "271/271",
+            "pokemon_name": "Rotom-Wash"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "238/271",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "238/271"
+          }
+        },
+        {
+          "type": "resisted",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "159/271"
+            ],
+            "new_hp": "159/271"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "brn"
+            ],
+            "status_condition": "brn"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "126/271 brn",
+              "[from] brn"
+            ],
+            "new_hp": "126/271 brn"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Rotom-Wash",
+            "pokemon_info": "Rotom-Wash",
+            "hp_info": "271/271",
+            "pokemon_name": "Rotom-Wash"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "238/271",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "238/271"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Bonaparte",
+            "move": "Scald",
+            "target": "p2a: Rotom-Wash",
+            "user_pokemon": "Bonaparte",
+            "target_pokemon": "Rotom-Wash"
+          }
+        },
+        {
+          "type": "resisted",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "159/271"
+            ],
+            "new_hp": "159/271"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "brn"
+            ],
+            "status_condition": "brn"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "126/271 brn",
+              "[from] brn"
+            ],
+            "new_hp": "126/271 brn"
+          }
+        }
+      ]
+    },
+    "9": {
+      "turn_number": 9,
+      "my_actions": [
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Riou",
+            "pokemon_info": "Zapdos",
+            "hp_info": "383/383",
+            "pokemon_name": "Zapdos"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "288/383",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "288/383"
+          }
+        },
+        {
+          "type": "ability",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "Pressure"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "35/383"
+            ],
+            "new_hp": "35/383"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "58/383",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "58/383"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Rotom-Wash",
+            "move": "Hydro Pump",
+            "target": "p1a: Riou",
+            "user_pokemon": "Rotom-Wash",
+            "target_pokemon": "Riou"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "93/271 brn",
+              "[from] brn"
+            ],
+            "new_hp": "93/271 brn"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Riou",
+            "pokemon_info": "Zapdos",
+            "hp_info": "383/383",
+            "pokemon_name": "Zapdos"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "288/383",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "288/383"
+          }
+        },
+        {
+          "type": "ability",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "Pressure"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Rotom-Wash",
+            "move": "Hydro Pump",
+            "target": "p1a: Riou",
+            "user_pokemon": "Rotom-Wash",
+            "target_pokemon": "Riou"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "35/383"
+            ],
+            "new_hp": "35/383"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "58/383",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "58/383"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "93/271 brn",
+              "[from] brn"
+            ],
+            "new_hp": "93/271 brn"
+          }
+        }
+      ]
+    },
+    "10": {
+      "turn_number": 10,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Riou",
+            "move": "Thunderbolt",
+            "target": "p2a: Rotom-Wash",
+            "user_pokemon": "Riou",
+            "target_pokemon": "Rotom-Wash"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "81/383",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "81/383"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Rotom-Wash",
+            "pokemon_name": "Rotom-Wash"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Latios",
+            "pokemon_info": "Latios, M",
+            "hp_info": "304/304",
+            "pokemon_name": "Latios"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "266/304",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "266/304"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Riou",
+            "move": "Thunderbolt",
+            "target": "p2a: Rotom-Wash",
+            "user_pokemon": "Riou",
+            "target_pokemon": "Rotom-Wash"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Rotom-Wash",
+            "target_pokemon": "Rotom-Wash",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Rotom-Wash",
+            "pokemon_name": "Rotom-Wash"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "81/383",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "81/383"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Latios",
+            "pokemon_info": "Latios, M",
+            "hp_info": "304/304",
+            "pokemon_name": "Latios"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "266/304",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "266/304"
+          }
+        }
+      ]
+    },
+    "11": {
+      "turn_number": 11,
+      "my_actions": [
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Zamza",
+            "pokemon_info": "Tentacruel, M",
+            "hp_info": "363/363",
+            "pokemon_name": "Tentacruel"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "318/363",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "318/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "340/363",
+              "[from] ability: Rain Dish"
+            ],
+            "new_hp": "340/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "362/363",
+              "[from] item: Black Sludge"
+            ],
+            "new_hp": "362/363"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Draco Meteor",
+            "target": "p1a: Zamza",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Zamza"
+          }
+        },
+        {
+          "type": "miss",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "p1a: Zamza"
+            ]
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Zamza",
+            "pokemon_info": "Tentacruel, M",
+            "hp_info": "363/363",
+            "pokemon_name": "Tentacruel"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "318/363",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "318/363"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Draco Meteor",
+            "target": "p1a: Zamza",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Zamza"
+          }
+        },
+        {
+          "type": "miss",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "p1a: Zamza"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "340/363",
+              "[from] ability: Rain Dish"
+            ],
+            "new_hp": "340/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "362/363",
+              "[from] item: Black Sludge"
+            ],
+            "new_hp": "362/363"
+          }
+        }
+      ]
+    },
+    "12": {
+      "turn_number": 12,
+      "my_actions": [
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "35/363"
+            ],
+            "new_hp": "35/363"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Zamza",
+            "move": "Rapid Spin",
+            "target": "p2a: Latios",
+            "user_pokemon": "Zamza",
+            "target_pokemon": "Latios"
+          }
+        },
+        {
+          "type": "sideend",
+          "perspective": "self",
+          "data": {
+            "target": "p1: Reymedy",
+            "target_pokemon": "Reymedy",
+            "effect_details": [
+              "Stealth Rock",
+              "[from] move: Rapid Spin",
+              "[of] p1a: Zamza"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "57/363",
+              "[from] ability: Rain Dish"
+            ],
+            "new_hp": "57/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "79/363",
+              "[from] item: Black Sludge"
+            ],
+            "new_hp": "79/363"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Draco Meteor",
+            "target": "p1a: Zamza",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Zamza"
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "spa",
+              "2"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "253/304"
+            ],
+            "new_hp": "253/304"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Steelphoenix"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|xastify"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "J",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|J|Steelphoenix"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|xastify"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Draco Meteor",
+            "target": "p1a: Zamza",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Zamza"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "35/363"
+            ],
+            "new_hp": "35/363"
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "spa",
+              "2"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Zamza",
+            "move": "Rapid Spin",
+            "target": "p2a: Latios",
+            "user_pokemon": "Zamza",
+            "target_pokemon": "Latios"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "253/304"
+            ],
+            "new_hp": "253/304"
+          }
+        },
+        {
+          "type": "sideend",
+          "perspective": "self",
+          "data": {
+            "target": "p1: Reymedy",
+            "target_pokemon": "Reymedy",
+            "effect_details": [
+              "Stealth Rock",
+              "[from] move: Rapid Spin",
+              "[of] p1a: Zamza"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "57/363",
+              "[from] ability: Rain Dish"
+            ],
+            "new_hp": "57/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "79/363",
+              "[from] item: Black Sludge"
+            ],
+            "new_hp": "79/363"
+          }
+        }
+      ]
+    },
+    "13": {
+      "turn_number": 13,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Zamza",
+            "move": "Scald",
+            "target": "p2a: Hippowdon",
+            "user_pokemon": "Zamza",
+            "target_pokemon": "Hippowdon"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "57/363",
+              "[from] sandstorm"
+            ],
+            "new_hp": "57/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "79/363",
+              "[from] item: Black Sludge"
+            ],
+            "new_hp": "79/363"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Hippowdon",
+            "pokemon_info": "Hippowdon, F",
+            "hp_info": "298/420 tox",
+            "pokemon_name": "Hippowdon"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "272/420 tox",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "272/420 tox"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[from] ability: Sand Stream",
+              "[of] p2a: Hippowdon"
+            ]
+          }
+        },
+        {
+          "type": "supereffective",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "60/420 tox"
+            ],
+            "new_hp": "60/420 tox"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "86/420 tox",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "86/420 tox"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "60/420 tox",
+              "[from] psn"
+            ],
+            "new_hp": "60/420 tox"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Hippowdon",
+            "pokemon_info": "Hippowdon, F",
+            "hp_info": "298/420 tox",
+            "pokemon_name": "Hippowdon"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "272/420 tox",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "272/420 tox"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[from] ability: Sand Stream",
+              "[of] p2a: Hippowdon"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Zamza",
+            "move": "Scald",
+            "target": "p2a: Hippowdon",
+            "user_pokemon": "Zamza",
+            "target_pokemon": "Hippowdon"
+          }
+        },
+        {
+          "type": "supereffective",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "60/420 tox"
+            ],
+            "new_hp": "60/420 tox"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "57/363",
+              "[from] sandstorm"
+            ],
+            "new_hp": "57/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "79/363",
+              "[from] item: Black Sludge"
+            ],
+            "new_hp": "79/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "86/420 tox",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "86/420 tox"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "60/420 tox",
+              "[from] psn"
+            ],
+            "new_hp": "60/420 tox"
+          }
+        }
+      ]
+    },
+    "14": {
+      "turn_number": 14,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Zamza",
+            "move": "Scald",
+            "target": "p2a: Ferrothorn",
+            "user_pokemon": "Zamza",
+            "target_pokemon": "Ferrothorn"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "57/363",
+              "[from] sandstorm"
+            ],
+            "new_hp": "57/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "79/363",
+              "[from] item: Black Sludge"
+            ],
+            "new_hp": "79/363"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Ferrothorn",
+            "pokemon_info": "Ferrothorn, F",
+            "hp_info": "352/352",
+            "pokemon_name": "Ferrothorn"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": [
+              "330/352",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "330/352"
+          }
+        },
+        {
+          "type": "resisted",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": [
+              "304/352"
+            ],
+            "new_hp": "304/352"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": [
+              "brn"
+            ],
+            "status_condition": "brn"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": [
+              "326/352 brn",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "326/352 brn"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": [
+              "282/352 brn",
+              "[from] brn"
+            ],
+            "new_hp": "282/352 brn"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Ferrothorn",
+            "pokemon_info": "Ferrothorn, F",
+            "hp_info": "352/352",
+            "pokemon_name": "Ferrothorn"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": [
+              "330/352",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "330/352"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Zamza",
+            "move": "Scald",
+            "target": "p2a: Ferrothorn",
+            "user_pokemon": "Zamza",
+            "target_pokemon": "Ferrothorn"
+          }
+        },
+        {
+          "type": "resisted",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": [
+              "304/352"
+            ],
+            "new_hp": "304/352"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": [
+              "brn"
+            ],
+            "status_condition": "brn"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "57/363",
+              "[from] sandstorm"
+            ],
+            "new_hp": "57/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Zamza",
+            "target_pokemon": "Zamza",
+            "effect_details": [
+              "79/363",
+              "[from] item: Black Sludge"
+            ],
+            "new_hp": "79/363"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": [
+              "326/352 brn",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "326/352 brn"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Ferrothorn",
+            "target_pokemon": "Ferrothorn",
+            "effect_details": [
+              "282/352 brn",
+              "[from] brn"
+            ],
+            "new_hp": "282/352 brn"
+          }
+        }
+      ]
+    },
+    "15": {
+      "turn_number": 15,
+      "my_actions": [
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Bonaparte",
+            "pokemon_info": "Politoed, M",
+            "hp_info": "108/323",
+            "pokemon_name": "Politoed"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Bonaparte",
+            "target_pokemon": "Bonaparte",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Bonaparte",
+            "pokemon_name": "Bonaparte"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Rikimaru",
+            "pokemon_info": "Garchomp, M",
+            "hp_info": "236/420",
+            "pokemon_name": "Garchomp"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[from] ability: Drizzle",
+              "[of] p1a: Bonaparte"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Ferrothorn",
+            "move": "Explosion",
+            "target": "p1a: Bonaparte",
+            "user_pokemon": "Ferrothorn",
+            "target_pokemon": "Bonaparte"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Ferrothorn",
+            "pokemon_name": "Ferrothorn"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Hippowdon",
+            "pokemon_info": "Hippowdon, F",
+            "hp_info": "60/420 tox",
+            "pokemon_name": "Hippowdon"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "34/420 tox",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "34/420 tox"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[from] ability: Sand Stream",
+              "[of] p2a: Hippowdon"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Bonaparte",
+            "pokemon_info": "Politoed, M",
+            "hp_info": "108/323",
+            "pokemon_name": "Politoed"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[from] ability: Drizzle",
+              "[of] p1a: Bonaparte"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Ferrothorn",
+            "move": "Explosion",
+            "target": "p1a: Bonaparte",
+            "user_pokemon": "Ferrothorn",
+            "target_pokemon": "Bonaparte"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Bonaparte",
+            "target_pokemon": "Bonaparte",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Ferrothorn",
+            "pokemon_name": "Ferrothorn"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Bonaparte",
+            "pokemon_name": "Bonaparte"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "RainDance",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Rikimaru",
+            "pokemon_info": "Garchomp, M",
+            "hp_info": "236/420",
+            "pokemon_name": "Garchomp"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Hippowdon",
+            "pokemon_info": "Hippowdon, F",
+            "hp_info": "60/420 tox",
+            "pokemon_name": "Hippowdon"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "34/420 tox",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "34/420 tox"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[from] ability: Sand Stream",
+              "[of] p2a: Hippowdon"
+            ]
+          }
+        }
+      ]
+    },
+    "16": {
+      "turn_number": 16,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Rikimaru",
+            "move": "Earthquake",
+            "target": "p2a: Latios",
+            "user_pokemon": "Rikimaru",
+            "target_pokemon": "Latios"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Latios",
+            "pokemon_info": "Latios, M",
+            "hp_info": "253/304",
+            "pokemon_name": "Latios"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "215/304",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "215/304"
+          }
+        },
+        {
+          "type": "immune",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "[msg]"
+            ]
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "196/304",
+              "[from] sandstorm"
+            ],
+            "new_hp": "196/304"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Latios",
+            "pokemon_info": "Latios, M",
+            "hp_info": "253/304",
+            "pokemon_name": "Latios"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "215/304",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "215/304"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Rikimaru",
+            "move": "Earthquake",
+            "target": "p2a: Latios",
+            "user_pokemon": "Rikimaru",
+            "target_pokemon": "Latios"
+          }
+        },
+        {
+          "type": "immune",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "[msg]"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "196/304",
+              "[from] sandstorm"
+            ],
+            "new_hp": "196/304"
+          }
+        }
+      ]
+    },
+    "17": {
+      "turn_number": 17,
+      "my_actions": [
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Gengen",
+            "pokemon_info": "Breloom, F",
+            "hp_info": "69/307 tox",
+            "pokemon_name": "Breloom"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Gengen",
+            "target_pokemon": "Gengen",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Gengen",
+            "pokemon_name": "Gengen"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Nanami",
+            "pokemon_info": "Jirachi",
+            "hp_info": "218/403",
+            "pokemon_name": "Jirachi"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Draco Meteor",
+            "target": "p1a: Gengen",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Gengen"
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "spa",
+              "2"
+            ]
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "177/304",
+              "[from] sandstorm"
+            ],
+            "new_hp": "177/304"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Gengen",
+            "pokemon_info": "Breloom, F",
+            "hp_info": "69/307 tox",
+            "pokemon_name": "Breloom"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Draco Meteor",
+            "target": "p1a: Gengen",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Gengen"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Gengen",
+            "target_pokemon": "Gengen",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "spa",
+              "2"
+            ]
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Gengen",
+            "pokemon_name": "Gengen"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "177/304",
+              "[from] sandstorm"
+            ],
+            "new_hp": "177/304"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Nanami",
+            "pokemon_info": "Jirachi",
+            "hp_info": "218/403",
+            "pokemon_name": "Jirachi"
+          }
+        }
+      ]
+    },
+    "18": {
+      "turn_number": 18,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Wish",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "243/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "243/403"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Metagross",
+            "pokemon_info": "Metagross",
+            "hp_info": "344/344",
+            "pokemon_name": "Metagross"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Metagross",
+            "target_pokemon": "Metagross",
+            "effect_details": [
+              "323/344",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "323/344"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Metagross",
+            "pokemon_info": "Metagross",
+            "hp_info": "344/344",
+            "pokemon_name": "Metagross"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Metagross",
+            "target_pokemon": "Metagross",
+            "effect_details": [
+              "323/344",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "323/344"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Wish",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "243/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "243/403"
+          }
+        }
+      ]
+    },
+    "19": {
+      "turn_number": 19,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Protect",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "singleturn",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "Protect"
+            ]
+          }
+        },
+        {
+          "type": "activate",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "Protect"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "403/403",
+              "[from] move: Wish",
+              "[wisher] Nanami"
+            ],
+            "new_hp": "403/403"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Metagross",
+            "move": "Explosion",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Metagross",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Metagross",
+            "pokemon_name": "Metagross"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Latios",
+            "pokemon_info": "Latios, M",
+            "hp_info": "177/304",
+            "pokemon_name": "Latios"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "139/304",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "139/304"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Protect",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "singleturn",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "Protect"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Metagross",
+            "move": "Explosion",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Metagross",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "activate",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "Protect"
+            ]
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Metagross",
+            "pokemon_name": "Metagross"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "403/403",
+              "[from] move: Wish",
+              "[wisher] Nanami"
+            ],
+            "new_hp": "403/403"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Latios",
+            "pokemon_info": "Latios, M",
+            "hp_info": "177/304",
+            "pokemon_name": "Latios"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "139/304",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "139/304"
+          }
+        }
+      ]
+    },
+    "20": {
+      "turn_number": 20,
+      "my_actions": [
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Riou",
+            "pokemon_info": "Zapdos",
+            "hp_info": "81/383",
+            "pokemon_name": "Zapdos"
+          }
+        },
+        {
+          "type": "ability",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "Pressure"
+            ]
+          }
+        },
+        {
+          "type": "item",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "Choice Specs",
+              "[from] move: Trick"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "58/383",
+              "[from] sandstorm"
+            ],
+            "new_hp": "58/383"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Trick",
+            "target": "p1a: Riou",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Riou"
+          }
+        },
+        {
+          "type": "activate",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "move: Trick",
+              "[of] p1a: Riou"
+            ]
+          }
+        },
+        {
+          "type": "item",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "Leftovers",
+              "[from] move: Trick"
+            ]
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "120/304",
+              "[from] sandstorm"
+            ],
+            "new_hp": "120/304"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "139/304",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "139/304"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Riou",
+            "pokemon_info": "Zapdos",
+            "hp_info": "81/383",
+            "pokemon_name": "Zapdos"
+          }
+        },
+        {
+          "type": "ability",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "Pressure"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Trick",
+            "target": "p1a: Riou",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Riou"
+          }
+        },
+        {
+          "type": "activate",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "move: Trick",
+              "[of] p1a: Riou"
+            ]
+          }
+        },
+        {
+          "type": "item",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "Choice Specs",
+              "[from] move: Trick"
+            ]
+          }
+        },
+        {
+          "type": "item",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "Leftovers",
+              "[from] move: Trick"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "120/304",
+              "[from] sandstorm"
+            ],
+            "new_hp": "120/304"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Riou",
+            "target_pokemon": "Riou",
+            "effect_details": [
+              "58/383",
+              "[from] sandstorm"
+            ],
+            "new_hp": "58/383"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "139/304",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "139/304"
+          }
+        }
+      ]
+    },
+    "21": {
+      "turn_number": 21,
+      "my_actions": [
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Nanami",
+            "pokemon_info": "Jirachi",
+            "hp_info": "403/403",
+            "pokemon_name": "Jirachi"
+          }
+        },
+        {
+          "type": "resisted",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "368/403"
+            ],
+            "new_hp": "368/403"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "393/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "393/403"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Psyshock",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "120/304",
+              "[from] sandstorm"
+            ],
+            "new_hp": "120/304"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "139/304",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "139/304"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Nanami",
+            "pokemon_info": "Jirachi",
+            "hp_info": "403/403",
+            "pokemon_name": "Jirachi"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Psyshock",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "resisted",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "368/403"
+            ],
+            "new_hp": "368/403"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "120/304",
+              "[from] sandstorm"
+            ],
+            "new_hp": "120/304"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "139/304",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "139/304"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "393/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "393/403"
+          }
+        }
+      ]
+    },
+    "22": {
+      "turn_number": 22,
+      "my_actions": [
+        {
+          "type": "supereffective",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "275/403"
+            ],
+            "new_hp": "275/403"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Body Slam",
+            "target": "p2a: Latios",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Latios"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "300/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "300/403"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Hidden Power",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "64/304"
+            ],
+            "new_hp": "64/304"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "par"
+            ],
+            "status_condition": "par"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "45/304 par",
+              "[from] sandstorm"
+            ],
+            "new_hp": "45/304 par"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "64/304 par",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "64/304 par"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Hidden Power",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "supereffective",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "275/403"
+            ],
+            "new_hp": "275/403"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Body Slam",
+            "target": "p2a: Latios",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Latios"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "64/304"
+            ],
+            "new_hp": "64/304"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "par"
+            ],
+            "status_condition": "par"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "45/304 par",
+              "[from] sandstorm"
+            ],
+            "new_hp": "45/304 par"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "300/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "300/403"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "64/304 par",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "64/304 par"
+          }
+        }
+      ]
+    },
+    "23": {
+      "turn_number": 23,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Protect",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "singleturn",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "Protect"
+            ]
+          }
+        },
+        {
+          "type": "activate",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "Protect"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "325/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "325/403"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Hidden Power",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "45/304 par",
+              "[from] sandstorm"
+            ],
+            "new_hp": "45/304 par"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "64/304 par",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "64/304 par"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Protect",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "singleturn",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "Protect"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Latios",
+            "move": "Hidden Power",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Latios",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "activate",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "Protect"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "45/304 par",
+              "[from] sandstorm"
+            ],
+            "new_hp": "45/304 par"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "325/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "325/403"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "64/304 par",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "64/304 par"
+          }
+        }
+      ]
+    },
+    "24": {
+      "turn_number": 24,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Iron Head",
+            "target": "p2a: Latios",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Latios"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "350/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "350/403"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Latios",
+            "pokemon_name": "Latios"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Hippowdon",
+            "pokemon_info": "Hippowdon, F",
+            "hp_info": "34/420 tox",
+            "pokemon_name": "Hippowdon"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "8/420 tox",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "8/420 tox"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Korby"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Korby"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Iron Head",
+            "target": "p2a: Latios",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Latios"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Latios",
+            "target_pokemon": "Latios",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Latios",
+            "pokemon_name": "Latios"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "350/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "350/403"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Hippowdon",
+            "pokemon_info": "Hippowdon, F",
+            "hp_info": "34/420 tox",
+            "pokemon_name": "Hippowdon"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "8/420 tox",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "8/420 tox"
+          }
+        }
+      ]
+    },
+    "25": {
+      "turn_number": 25,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Body Slam",
+            "target": "p2a: Hippowdon",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Hippowdon"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "375/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "375/403"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Hippowdon",
+            "pokemon_name": "Hippowdon"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Stoutland",
+            "pokemon_info": "Stoutland, F",
+            "hp_info": "312/312",
+            "pokemon_name": "Stoutland"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "273/312",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "273/312"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Marshall.Law"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Marshall.Law"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Body Slam",
+            "target": "p2a: Hippowdon",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Hippowdon"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Hippowdon",
+            "target_pokemon": "Hippowdon",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Hippowdon",
+            "pokemon_name": "Hippowdon"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "375/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "375/403"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Stoutland",
+            "pokemon_info": "Stoutland, F",
+            "hp_info": "312/312",
+            "pokemon_name": "Stoutland"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "273/312",
+              "[from] Stealth Rock"
+            ],
+            "new_hp": "273/312"
+          }
+        }
+      ]
+    },
+    "26": {
+      "turn_number": 26,
+      "my_actions": [
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "194/403"
+            ],
+            "new_hp": "194/403"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Body Slam",
+            "target": "p2a: Stoutland",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Stoutland"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "219/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "219/403"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Stoutland",
+            "move": "Superpower",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Stoutland",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "atk",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "def",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "242/312",
+              "[from] item: Life Orb"
+            ],
+            "new_hp": "242/312"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "126/312"
+            ],
+            "new_hp": "126/312"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "par"
+            ],
+            "status_condition": "par"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Stoutland",
+            "move": "Superpower",
+            "target": "p1a: Nanami",
+            "user_pokemon": "Stoutland",
+            "target_pokemon": "Nanami"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "194/403"
+            ],
+            "new_hp": "194/403"
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "atk",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "def",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "242/312",
+              "[from] item: Life Orb"
+            ],
+            "new_hp": "242/312"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Body Slam",
+            "target": "p2a: Stoutland",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Stoutland"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "126/312"
+            ],
+            "new_hp": "126/312"
+          }
+        },
+        {
+          "type": "status",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "par"
+            ],
+            "status_condition": "par"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "weather",
+          "perspective": "opponent",
+          "data": {
+            "target": "Sandstorm",
+            "target_pokemon": null,
+            "effect_details": [
+              "[upkeep]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Nanami",
+            "target_pokemon": "Nanami",
+            "effect_details": [
+              "219/403",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "219/403"
+          }
+        }
+      ]
+    },
+    "27": {
+      "turn_number": 27,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Iron Head",
+            "target": "p2a: Stoutland",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Stoutland"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Stoutland",
+            "pokemon_name": "Stoutland"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "win",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|win|Reymedy"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|boudouche"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Leftiez~"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Reymedy"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Ybel"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Vinc2612"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Twin Citiez"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|davidTheMaster"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Lusso."
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|TewMew"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Nanami",
+            "move": "Iron Head",
+            "target": "p2a: Stoutland",
+            "user_pokemon": "Nanami",
+            "target_pokemon": "Stoutland"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Stoutland",
+            "target_pokemon": "Stoutland",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "opponent",
+          "data": {
+            "position": "p2a: Stoutland",
+            "pokemon_name": "Stoutland"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "win",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|win|Reymedy"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|boudouche"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Leftiez~"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Reymedy"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Ybel"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Vinc2612"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Twin Citiez"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|davidTheMaster"
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|Lusso."
+          }
+        },
+        {
+          "type": "L",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|L|TewMew"
+          }
+        }
+      ]
+    }
+  },
+  "game_state": {
+    "my_team": {},
+    "opponent_team": {},
+    "my_active_pokemon": null,
+    "opponent_active_pokemon": null,
+    "field_conditions": {},
+    "weather": null,
+    "my_side_conditions": {},
+    "opponent_side_conditions": {},
+    "turn_number": 0
+  },
+  "action_history": [],
+  "observations": []
+}
