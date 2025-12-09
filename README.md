@@ -11,4 +11,7 @@ Pokémon Showdown is an open-source battle simulator that turns Pokémon’s tur
 
 
 ## Inspiration
-Inspired by the [PokeAgent Challenge @ NeurIPS 2025] (https://pokeagent.github.io/) and the UT Robot and Perception project [Metamon](https://github.com/UT-Austin-RPL/metamon). We’re using this project as a way to learn reinforce learning through one of our shared passions.
+Inspired by the [PokeAgent Challenge @ NeurIPS 2025](https://pokeagent.github.io/) and the UT Robot and Perception project [Metamon](https://github.com/UT-Austin-RPL/metamon). We’re using this project as a way to learn reinforce learning through our shared passion of Pokemon Battling and will closely follow the methods of Metamon and other Pokemon battle agents with our own small spins. 
+
+## Data
+
