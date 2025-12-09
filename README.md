@@ -34,6 +34,12 @@ This brings us to our next step: analyzing the provided JSON files. At first gla
 Our next step in the Data pipeline is Cleaning these Files. Our [function](data/PS_json_cleaner.py) takes the raw json file and stripts it of unneccessary information including: Chat messages, Spectator count, and other miscellaneous messages.
 
 
+<div align="center">
+    <img src="Readme_Media/Example Clean Data.jpeg" alt="cleandataexample" width="810">
+</div>
+
+<br>
+
 
 Metamon makes it easy to turn Pokémon into an RL research problem by providing over 2m saved datasets.
 
