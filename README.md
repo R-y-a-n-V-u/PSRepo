@@ -21,12 +21,18 @@ Inspired by the [PokeAgent Challenge @ NeurIPS 2025](https://pokeagent.github.io
 Showdown creates "replays" of battles that players can choose to upload to the website before they expire. Our team wanted to build our own data pipeline in order to get hands on experience with the data life cycle within the model development. 
 
 
-The begining of our Data lifecycle begins with analyzing a single battle. Looking at it there's an overload of information.
+The begining of our Data lifecycle begins with Scraping the Pokemon Showdown website for new battles.
+Our [function](data/PS_scraper.py) retrieves recent Generation 9 OU Pokémon Showdown replays and returns only the key information you care about (players, rating, and a direct JSON replay URL).
+
+
+
+Looking at it there's an overload of information.
 <div align="center">
     <img src="Readme_Media/Example Raw PS data.jpeg" alt="Rawdataexample" width="810">
 </div>
 
 <br>
+
 
 
 Metamon makes it easy to turn Pokémon into an RL research problem by providing over 2m saved datasets.
