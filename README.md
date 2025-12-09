@@ -10,4 +10,6 @@ Pokémon Showdown is an open-source battle simulator that turns Pokémon’s tur
 
 
 
-##Inspiration
+## Inspiration
+
+
