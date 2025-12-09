@@ -24,9 +24,7 @@ Showdown creates "replays" of battles that players can choose to upload to the w
 The begining of our Data lifecycle begins with Scraping the Pokemon Showdown website for new battles.
 Our [function](data/PS_scraper.py) retrieves recent Generation 9 OU Pokémon Showdown replays and returns only the key information you care about (players, rating, and a direct JSON replay URL).
 
-
-
-Looking at it there's an overload of information.
+This brings us to our next step: analyzing the provided JSON files. At first glance, the data contains an overwhelming amount of information—unreadable both to the human eye and to our training agents.
 <div align="center">
     <img src="Readme_Media/Example Raw PS data.jpeg" alt="Rawdataexample" width="810">
 </div>
