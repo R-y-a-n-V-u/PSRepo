@@ -20,5 +20,10 @@ Inspired by the [PokeAgent Challenge @ NeurIPS 2025](https://pokeagent.github.io
 ## Data
 Showdown creates "replays" of battles that players can choose to upload to the website before they expire. Our team wanted to build our own data pipeline in order to get hands on experience with the data life cycle within the model development. 
 
+<div align="center">
+    <img src="Readme_Media/Example Raw PS data.jpeg" alt="Rawdataexample" width="410">
+</div>
+
+<br>
 Metamon makes it easy to turn Pokémon into an RL research problem by providing over 2m saved datasets.
 
