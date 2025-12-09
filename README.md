@@ -1,3 +1,3 @@
-# PSRepo
+# Reinforcement Learning Project through the Lens of [Pokémon Showdown](https://pokemonshowdown.com/)
 
-https://drive.google.com/drive/folders/1MKVCTN-8gur2NI4uly2_bGb-tV77Wd67?usp=sharing
+
