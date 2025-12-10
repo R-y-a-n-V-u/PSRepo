@@ -1,0 +1,1897 @@
+{
+  "player_name": "fenixzero",
+  "player_id": "p1",
+  "opponent_name": "basdel",
+  "opponent_id": "p2",
+  "format": "[Gen 9] OU",
+  "replay_id": "gen9ou-2497246974",
+  "pre_battle": [
+    {
+      "type": "player_info",
+      "perspective": "self",
+      "data": {
+        "name": "fenixzero",
+        "id": "p1"
+      }
+    },
+    {
+      "type": "player_info",
+      "perspective": "opponent",
+      "data": {
+        "name": "basdel",
+        "id": "p2"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|gen|9"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|tier|[Gen 9] OU"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|clearpoke"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Jolteon, M|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Arcanine, M|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Gengar, M|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Dragonite, M|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Rhyperior, M|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p1|Blastoise, M|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Garchomp, M|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Dragonite, M|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Dragapult, M|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Kingambit, F|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Enamorus, F|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|poke|p2|Iron Treads|"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|teampreview"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|"
+      }
+    },
+    {
+      "type": "team_size",
+      "perspective": "self",
+      "data": {
+        "team_size": 6
+      }
+    },
+    {
+      "type": "team_size",
+      "perspective": "opponent",
+      "data": {
+        "team_size": 6
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|start"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|switch|p1a: Arcanine|Arcanine, M|100/100"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|switch|p2a: Garchomp|Garchomp, M|100/100"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|-ability|p1a: Arcanine|Intimidate|boost"
+      }
+    },
+    {
+      "type": "game_info",
+      "perspective": "neutral",
+      "data": {
+        "raw": "|-unboost|p2a: Garchomp|atk|1"
+      }
+    },
+    {
+      "type": "player_info",
+      "perspective": "self",
+      "data": {
+        "name": "",
+        "id": "p1"
+      }
+    },
+    {
+      "type": "player_info",
+      "perspective": "opponent",
+      "data": {
+        "name": "",
+        "id": "p2"
+      }
+    }
+  ],
+  "turns": {
+    "1": {
+      "turn_number": 1,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Arcanine",
+            "move": "Will-O-Wisp",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Arcanine",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "miss",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "p2a: Garchomp"
+            ]
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Swords Dance",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "boost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "atk",
+              "2"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Swords Dance",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "boost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "atk",
+              "2"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Arcanine",
+            "move": "Will-O-Wisp",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Arcanine",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "miss",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "p2a: Garchomp"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        }
+      ]
+    },
+    "2": {
+      "turn_number": 2,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Arcanine",
+            "move": "Will-O-Wisp",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Arcanine",
+            "target_pokemon": "Garchomp"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "terastallize",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "Fire"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Swords Dance",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "boost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "atk",
+              "2"
+            ]
+          }
+        },
+        {
+          "type": "immune",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": []
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "terastallize",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "Fire"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Swords Dance",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "boost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "atk",
+              "2"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Arcanine",
+            "move": "Will-O-Wisp",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Arcanine",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "immune",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        }
+      ]
+    },
+    "3": {
+      "turn_number": 3,
+      "my_actions": [
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Arcanine",
+            "move": "Extreme Speed",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Arcanine",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "88/100",
+              "[from] ability: Rough Skin",
+              "[of] p2a: Garchomp"
+            ],
+            "new_hp": "88/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "47/100"
+            ],
+            "new_hp": "47/100"
+          }
+        },
+        {
+          "type": "enditem",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "Sitrus Berry",
+              "[eat]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "72/100",
+              "[from] item: Sitrus Berry"
+            ],
+            "new_hp": "72/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "27/100"
+            ],
+            "new_hp": "27/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Arcanine",
+            "pokemon_name": "Arcanine"
+          }
+        },
+        {
+          "type": "hitcount",
+          "perspective": "self",
+          "data": {
+            "target": "p1: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "3"
+            ]
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Rhyperior",
+            "pokemon_info": "Rhyperior, M",
+            "hp_info": "100/100",
+            "pokemon_name": "Rhyperior"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "72/100"
+            ],
+            "new_hp": "72/100"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Scale Shot",
+            "target": "p1a: Arcanine",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Arcanine"
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "def",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "boost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "spe",
+              "1"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Arcanine",
+            "move": "Extreme Speed",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Arcanine",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "72/100"
+            ],
+            "new_hp": "72/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "88/100",
+              "[from] ability: Rough Skin",
+              "[of] p2a: Garchomp"
+            ],
+            "new_hp": "88/100"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Scale Shot",
+            "target": "p1a: Arcanine",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Arcanine"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "47/100"
+            ],
+            "new_hp": "47/100"
+          }
+        },
+        {
+          "type": "enditem",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "Sitrus Berry",
+              "[eat]"
+            ]
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "72/100",
+              "[from] item: Sitrus Berry"
+            ],
+            "new_hp": "72/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "27/100"
+            ],
+            "new_hp": "27/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Arcanine",
+            "pokemon_name": "Arcanine"
+          }
+        },
+        {
+          "type": "hitcount",
+          "perspective": "self",
+          "data": {
+            "target": "p1: Arcanine",
+            "target_pokemon": "Arcanine",
+            "effect_details": [
+              "3"
+            ]
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "def",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "boost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "spe",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Rhyperior",
+            "pokemon_info": "Rhyperior, M",
+            "hp_info": "100/100",
+            "pokemon_name": "Rhyperior"
+          }
+        }
+      ]
+    },
+    "4": {
+      "turn_number": 4,
+      "my_actions": [
+        {
+          "type": "terastallize",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rhyperior",
+            "target_pokemon": "Rhyperior",
+            "effect_details": [
+              "Fairy"
+            ]
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rhyperior",
+            "target_pokemon": "Rhyperior",
+            "effect_details": [
+              "38/100"
+            ],
+            "new_hp": "38/100"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Rhyperior",
+            "move": "Ice Punch",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Rhyperior",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rhyperior",
+            "target_pokemon": "Rhyperior",
+            "effect_details": [
+              "26/100",
+              "[from] ability: Rough Skin",
+              "[of] p2a: Garchomp"
+            ],
+            "new_hp": "26/100"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rhyperior",
+            "target_pokemon": "Rhyperior",
+            "effect_details": [
+              "32/100",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "32/100"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Earthquake",
+            "target": "p1a: Rhyperior",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Rhyperior"
+          }
+        },
+        {
+          "type": "resisted",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "54/100"
+            ],
+            "new_hp": "54/100"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "terastallize",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rhyperior",
+            "target_pokemon": "Rhyperior",
+            "effect_details": [
+              "Fairy"
+            ]
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Earthquake",
+            "target": "p1a: Rhyperior",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Rhyperior"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rhyperior",
+            "target_pokemon": "Rhyperior",
+            "effect_details": [
+              "38/100"
+            ],
+            "new_hp": "38/100"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "self",
+          "data": {
+            "user": "p1a: Rhyperior",
+            "move": "Ice Punch",
+            "target": "p2a: Garchomp",
+            "user_pokemon": "Rhyperior",
+            "target_pokemon": "Garchomp"
+          }
+        },
+        {
+          "type": "resisted",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "54/100"
+            ],
+            "new_hp": "54/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rhyperior",
+            "target_pokemon": "Rhyperior",
+            "effect_details": [
+              "26/100",
+              "[from] ability: Rough Skin",
+              "[of] p2a: Garchomp"
+            ],
+            "new_hp": "26/100"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "heal",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rhyperior",
+            "target_pokemon": "Rhyperior",
+            "effect_details": [
+              "32/100",
+              "[from] item: Leftovers"
+            ],
+            "new_hp": "32/100"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        }
+      ]
+    },
+    "5": {
+      "turn_number": 5,
+      "my_actions": [
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rhyperior",
+            "target_pokemon": "Rhyperior",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Rhyperior",
+            "pokemon_name": "Rhyperior"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Dragonite",
+            "pokemon_info": "Dragonite, M",
+            "hp_info": "100/100",
+            "pokemon_name": "Dragonite"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Earthquake",
+            "target": "p1a: Rhyperior",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Rhyperior"
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Earthquake",
+            "target": "p1a: Rhyperior",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Rhyperior"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Rhyperior",
+            "target_pokemon": "Rhyperior",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Rhyperior",
+            "pokemon_name": "Rhyperior"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Dragonite",
+            "pokemon_info": "Dragonite, M",
+            "hp_info": "100/100",
+            "pokemon_name": "Dragonite"
+          }
+        }
+      ]
+    },
+    "6": {
+      "turn_number": 6,
+      "my_actions": [
+        {
+          "type": "supereffective",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Dragonite",
+            "target_pokemon": "Dragonite",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Dragonite",
+            "target_pokemon": "Dragonite",
+            "effect_details": [
+              "67/100"
+            ],
+            "new_hp": "67/100"
+          }
+        },
+        {
+          "type": "supereffective",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Dragonite",
+            "target_pokemon": "Dragonite",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Dragonite",
+            "target_pokemon": "Dragonite",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Dragonite",
+            "pokemon_name": "Dragonite"
+          }
+        },
+        {
+          "type": "hitcount",
+          "perspective": "self",
+          "data": {
+            "target": "p1: Dragonite",
+            "target_pokemon": "Dragonite",
+            "effect_details": [
+              "2"
+            ]
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Blastoise",
+            "pokemon_info": "Blastoise, M",
+            "hp_info": "100/100",
+            "pokemon_name": "Blastoise"
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Scale Shot",
+            "target": "p1a: Dragonite",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Dragonite"
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "def",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "boost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "spe",
+              "1"
+            ]
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Scale Shot",
+            "target": "p1a: Dragonite",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Dragonite"
+          }
+        },
+        {
+          "type": "supereffective",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Dragonite",
+            "target_pokemon": "Dragonite",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Dragonite",
+            "target_pokemon": "Dragonite",
+            "effect_details": [
+              "67/100"
+            ],
+            "new_hp": "67/100"
+          }
+        },
+        {
+          "type": "supereffective",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Dragonite",
+            "target_pokemon": "Dragonite",
+            "effect_details": []
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Dragonite",
+            "target_pokemon": "Dragonite",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Dragonite",
+            "pokemon_name": "Dragonite"
+          }
+        },
+        {
+          "type": "hitcount",
+          "perspective": "self",
+          "data": {
+            "target": "p1: Dragonite",
+            "target_pokemon": "Dragonite",
+            "effect_details": [
+              "2"
+            ]
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "def",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "boost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "spe",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "switch",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Blastoise",
+            "pokemon_info": "Blastoise, M",
+            "hp_info": "100/100",
+            "pokemon_name": "Blastoise"
+          }
+        }
+      ]
+    },
+    "7": {
+      "turn_number": 7,
+      "my_actions": [
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Blastoise",
+            "target_pokemon": "Blastoise",
+            "effect_details": [
+              "68/100"
+            ],
+            "new_hp": "68/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Blastoise",
+            "target_pokemon": "Blastoise",
+            "effect_details": [
+              "37/100"
+            ],
+            "new_hp": "37/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Blastoise",
+            "target_pokemon": "Blastoise",
+            "effect_details": [
+              "8/100"
+            ],
+            "new_hp": "8/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Blastoise",
+            "target_pokemon": "Blastoise",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Blastoise",
+            "pokemon_name": "Blastoise"
+          }
+        },
+        {
+          "type": "hitcount",
+          "perspective": "self",
+          "data": {
+            "target": "p1: Blastoise",
+            "target_pokemon": "Blastoise",
+            "effect_details": [
+              "4"
+            ]
+          }
+        }
+      ],
+      "opponent_actions": [
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Scale Shot",
+            "target": "p1a: Blastoise",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Blastoise"
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "def",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "boost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "spe",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "message",
+          "perspective": "opponent",
+          "data": {
+            "target": "fenixzero forfeited.",
+            "target_pokemon": null,
+            "effect_details": []
+          }
+        }
+      ],
+      "game_events": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "win",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|win|basdel"
+          }
+        }
+      ],
+      "state_changes": [],
+      "observations": [
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "move",
+          "perspective": "opponent",
+          "data": {
+            "user": "p2a: Garchomp",
+            "move": "Scale Shot",
+            "target": "p1a: Blastoise",
+            "user_pokemon": "Garchomp",
+            "target_pokemon": "Blastoise"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Blastoise",
+            "target_pokemon": "Blastoise",
+            "effect_details": [
+              "68/100"
+            ],
+            "new_hp": "68/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Blastoise",
+            "target_pokemon": "Blastoise",
+            "effect_details": [
+              "37/100"
+            ],
+            "new_hp": "37/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Blastoise",
+            "target_pokemon": "Blastoise",
+            "effect_details": [
+              "8/100"
+            ],
+            "new_hp": "8/100"
+          }
+        },
+        {
+          "type": "damage",
+          "perspective": "self",
+          "data": {
+            "target": "p1a: Blastoise",
+            "target_pokemon": "Blastoise",
+            "effect_details": [
+              "0 fnt"
+            ],
+            "new_hp": "0 fnt"
+          }
+        },
+        {
+          "type": "faint",
+          "perspective": "self",
+          "data": {
+            "position": "p1a: Blastoise",
+            "pokemon_name": "Blastoise"
+          }
+        },
+        {
+          "type": "hitcount",
+          "perspective": "self",
+          "data": {
+            "target": "p1: Blastoise",
+            "target_pokemon": "Blastoise",
+            "effect_details": [
+              "4"
+            ]
+          }
+        },
+        {
+          "type": "unboost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "def",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "boost",
+          "perspective": "opponent",
+          "data": {
+            "target": "p2a: Garchomp",
+            "target_pokemon": "Garchomp",
+            "effect_details": [
+              "spe",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "upkeep",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|upkeep"
+          }
+        },
+        {
+          "type": "message",
+          "perspective": "opponent",
+          "data": {
+            "target": "fenixzero forfeited.",
+            "target_pokemon": null,
+            "effect_details": []
+          }
+        },
+        {
+          "type": "",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|"
+          }
+        },
+        {
+          "type": "win",
+          "perspective": "neutral",
+          "data": {
+            "raw": "|win|basdel"
+          }
+        }
+      ]
+    }
+  },
+  "game_state": {
+    "my_team": {},
+    "opponent_team": {},
+    "my_active_pokemon": null,
+    "opponent_active_pokemon": null,
+    "field_conditions": {},
+    "weather": null,
+    "my_side_conditions": {},
+    "opponent_side_conditions": {},
+    "turn_number": 0
+  },
+  "action_history": [],
+  "observations": []
+}

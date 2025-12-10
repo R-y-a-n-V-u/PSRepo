@@ -2,9 +2,9 @@ import os
 import time
 import json
 from datetime import datetime
-from .PS_scraper import fetch_gen9ou_replays
-from .PS_json_cleaner import clean_showdown_replay
-from .POVConverter import convert_replay_for_rl_training
+from data.PS_scraper import fetch_gen9ou_replays
+from data.PS_json_cleaner import clean_showdown_replay
+from data.POVConverter import convert_replay_for_rl_training
 
 replays = fetch_gen9ou_replays(page=1, limit=10)
 
@@ -18,7 +18,7 @@ if replays:
 
 
     # Example replay URL
-    replay_url = "https://replay.pokemonshowdown.com/smogtours-gen5ou-59402.json"
+    replay_url = "https://replay.pokemonshowdown.com/gen9ou-2497246974.json"
     
     # Clean the replay first
     cleaned_data = clean_showdown_replay(replay_url)
