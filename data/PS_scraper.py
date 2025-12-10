@@ -60,10 +60,6 @@ def fetch_gen9ou_replays(page=1, limit=50):
     except requests.exceptions.RequestException as e:
         print(f"Error fetching replays: {e}")
         return []
-<<<<<<< HEAD:PS_scraper.py
-    
-=======
-    
 if __name__ == "__main__":
     while True:
         replays = fetch_gen9ou_replays()
@@ -72,4 +68,3 @@ if __name__ == "__main__":
         # TODO: connect to DB and save replays
         # Wait for 15 minutes
         time.sleep(15 * 60)
->>>>>>> main:data/PS_scraper.py

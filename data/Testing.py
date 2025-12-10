@@ -2,10 +2,9 @@ import os
 import time
 import json
 from datetime import datetime
-from PS_scraper import fetch_gen9ou_replays
-from PS_json_cleaner import clean_showdown_replay
-from POVConverter import convert_replay_for_rl_training
-
+from .PS_scraper import fetch_gen9ou_replays
+from .PS_json_cleaner import clean_showdown_replay
+from .POVConverter import convert_replay_for_rl_training
 
 replays = fetch_gen9ou_replays(page=1, limit=10)
 
