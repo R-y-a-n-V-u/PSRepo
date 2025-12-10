@@ -4,14 +4,14 @@ from datetime import datetime
 from PS_scraper import fetch_gen9ou_replays
 from PS_json_cleaner import clean_showdown_replay
 from db import connectToDB, createDatabase, createTable, insertJSON, printRows
+import passworddb
 
 def main():
-    # Database configuration (must match db.py)
-    HOST = "pokemonshowdowndb.cbiwcoou81sx.us-east-2.rds.amazonaws.com"
-    USER = "admin"
-    PASSWORD = "PSMVP2025!"
-    DATABASE = "pokemonshowdowndb"
-    PORT = 3306
+    HOST = passworddb.HOST
+    USER = passworddb.USER
+    PASSWORD = passworddb.PASSWORD
+    DATABASE = passworddb.DATABASE
+    PORT = passworddb.PORT
     
     # Get current timestamp for logging
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
