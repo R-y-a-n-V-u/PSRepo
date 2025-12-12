@@ -40,6 +40,13 @@ Our next step in the Data pipeline is Cleaning these Files. Our [function](data/
 
 <br>
 
+In Showdown RL, we have to account for a mismatch between the trajectories we record from our own battles and the ones extracted from other players’ replays. Replays are saved from a spectator’s perspective, not a player’s perspective, meaning the server omits certain information that actual players would receive during a live match. As a result, we need to reconstruct or approximate this missing information to simulate the player’s true observation space.
+
+<div align="center">
+    <img src="Readme_Media/Converted data example.jpeg" alt="Converteddataexample" width="810">
+</div>
+
+<br>
 
 Metamon makes it easy to turn Pokémon into an RL research problem by providing over 2m saved datasets.
 
